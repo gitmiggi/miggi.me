@@ -1,2 +1,0 @@
-# miggi.me
-testing
