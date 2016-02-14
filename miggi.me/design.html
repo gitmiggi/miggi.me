@@ -1,11 +1,13 @@
 ---
 layout: default
+title: Product & Design
+permalink: /design/
 ---
 
 <div class="home">
 
   <nav class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.tags.design %}
     
     	<div class="project-item">
     		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}#view">

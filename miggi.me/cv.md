@@ -1,25 +1,31 @@
 ---
 layout: default
 title: Curriculum Vitae
-permalink: /cv/
+permalink: /resume/
 ---
 
+<!-- <article class="post-content" id="cvnav">
+<section>
+    <h1>C.V.</h1>
+</section>
+</article> -->
+
 <div class="container-fluid" id="start">
-    <section>
+    <section >
         <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-0">
-                <section id="main-cv" class="home">
-       
-        <nav class="cv">
+        <section id="main-cv" class="home">
+
+        <nav class="cv" style="text-align:center;">
             <a class="cvbtn0 selected" href="#cvnav">Personal Statement</a>
             <a class="cvbtn1" href="#cvnav">Experience</a>
             <a class="cvbtn2" href="#cvnav">Education</a>
-            <a class="cvbtn3" href="#cvnav">Honors</a>
+            <a class="cvbtn3" href="#cvnav">Honors / Press</a>
         </nav>
         <div class="cv_area0">
             <section class="cv">
                 <h3>Personal Statement</h3>
-                <p>I produce a focused and diversified approach to user driven product design with over 15 years professional experience designing and developing internet driven marketing, applications and products, and 8 years providing instruction at the University level. </p>
+                <p>I produce a focused and diversified approach to user driven product design with over 16 years of experience designing and developing internet driven marketing and products, including 8 years instructing at the University level. </p>
                 <p>I continue to adapt my methods and practices in an ever changing landscape of standards and technology by addressing the design discipline as a problem solver in the roles of educator, developer, entrepreneur, and consultant.</p>
             </section>
         </div>
@@ -65,7 +71,7 @@ permalink: /cv/
                     <li><a href="http://www.imgix.com" target="_blank">http://imgix.com</a></li>
                 </ul>
             </section>
-            <section class="cv">
+          <!--   <section class="cv">
                 <h3>Freelance Designer / Front End Developer</h3>
                 <h4>MC82 Interactive</h4>
                 <p>Developed E-Learning & Security LMS Backed Training for SecurityMentor.com. Designed and developed flash games for nick.com. Interactive application consulting for Seattle based Agencies. Designed and co–developed web application for Nextel/Nascar device. Developed sites for NYC based advertising and photography studios. Designed book covers, logos, print materials & small catalog sites for local organizations.</p>
@@ -74,7 +80,7 @@ permalink: /cv/
                     <li>MAY 2001 &ndash; Present </li>
                     <li><a href="http:/miguelcardona.com" target="_blank">http://mc82.com</a></li>
                 </ul>
-            </section>
+            </section> -->
             <section class="cv">
                 <h3>UX/UI Designer</h3>
                 <h4>RIT Production Services</h4>
@@ -214,10 +220,8 @@ permalink: /cv/
     
 </div>
 
-
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
 <script>
 window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.2.min.js"><\/script>')
 </script>
@@ -236,9 +240,6 @@ function cv_setUpButtons() {
         });
 
     });
-
-
-
 }
 
 function cv_hideAll() {
