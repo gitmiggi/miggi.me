@@ -2983,7 +2983,7 @@ header .navbar-nav a:last-child {
   header .navbar-nav {
     display: inline-block;
     padding-top: .25em;
-    padding-bottom: 0.25em; }
+    padding-bottom: 0.75em; }
 
   header .navbar-nav a {
     font-size: 66%;
