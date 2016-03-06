@@ -1,0 +1,13 @@
+<figure class="thumb">
+<picture>
+    <source media="(min-width: 1280px)" srcset="{{ include.img }}&w=1200 1x, {{ include.img }}&w=1200&dpr=2&q=45 2x">
+    <source media="(min-width: 768px)" srcset="{{ include.img }}&w=800 1x, {{ include.img }}&w=800&dpr=2&q=45 2x">
+    <source media="(min-width: 480px)" srcset="{{ include.img }}&w=640 1x, {{ include.img }}&w=640&dpr=2&q=45 2x">
+    <source media="(max-width: 479px)" srcset="{{ include.img }}&w=320 1x, {{ include.img }}&w=1200&dpr=2&q=45 2x">
+    <img src="{{ include.img }}&w=800&q=45" {% if include.caption %} alt="{{ include.alt }}" {% endif %}>
+</picture>
+
+{% if include.caption %}
+<figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+</figure>

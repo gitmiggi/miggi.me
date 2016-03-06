@@ -1,0 +1,14 @@
+
+<figure class="imgix-thumb" data-src="{{ include.img }}">
+
+<picture>
+    <source media="(min-width: 640px)" srcset="{{ include.img }}&auto=format&w=320&h=320&fit=crop 1x, {{ include.img }}&auto=format&w=320&h=320&fit=crop&dpr=2&q=45 2x">
+    <source media="(min-width: 480px)" srcset="{{ include.img }}&auto=format&w=220&h=220&fit=crop 1x, {{ include.img }}&auto=format&w=220&h=220&fit=crop&dpr=2&q=45 2x">
+    <source media="(max-width: 479px)" srcset="{{ include.img }}&auto=format&w=120&h=120&fit=crop 1x, {{ include.img }}&auto=format&w=120&h=120&fit=crop&dpr=2&q=45 2x">
+    <img  src="{{ include.img }}&auto=format&w=240&h=240&fit=crop&q=45" {% if include.caption %} alt="{{ include.alt }}" {% endif %}>
+</picture>
+
+{% if include.caption %}
+<figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+</figure>
