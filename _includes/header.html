@@ -3,8 +3,13 @@
         <div class="logo"> <a class="site-title" href="{{ site.baseurl }}/">Miguel A. Cardona Jr. <span class="title">Designer & Illustrator</span></a>
         </div>
         <nav class="navbar-nav">
-            {% for page in site.pages %} {% if page.title %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> {% endif %} {% endfor %}
+         <!--    {% for page in site.pages %} {% if page.title %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> {% endif %} {% endfor %} -->
+            <a class="page-link" href="/">All Projects</a> 
+            <a class="page-link" href="/design">Design & Product</a> 
+            <a class="page-link" href="/illustration-photography">Illustration & Photography</a> 
+            <a class="page-link" href="/about">About Me</a>
+            <a class="page-link" href="/resume">Resumé</a>  
         </nav>
         <nav id="miggi-menu-button">
             <div id="miggi-menu-bars"></div>

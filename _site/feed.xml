@@ -5,18 +5,655 @@
     <description>Miguel Cardona is a Designer, Illustrator and Photographer living in San Francisco, CA. He currently is the Lead Designer at imgix.</description>
     <link>http://miguelcardona.com/</link>
     <atom:link href="http://miguelcardona.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2016 01:39:09 -0800</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2016 01:39:09 -0800</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2016 13:49:18 -0800</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 13:49:18 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Designing the Tangible Experience of Interactive Memories</title>
+        <title>imgix Marketing</title>
         <description>&lt;section&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=1200 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=800 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=640 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=320 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=1200 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=800 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=640 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=320 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=1200 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=800 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=640 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=320 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section&gt;
+
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 01:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/2016/03/02/imgix-marketing-site.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/2016/03/02/imgix-marketing-site.html</guid>
+        
+        <category>design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>imgix Sandbox</title>
+        <description>&lt;section&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section&gt;
+
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 02:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/2016/02/29/imgix-sandbox.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/2016/02/29/imgix-sandbox.html</guid>
+        
+        <category>design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>imgix Scale, Site Performance Utiliy</title>
+        <description>&lt;section&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section&gt;
+
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 01:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/product/design/2016/02/29/imgix-perftool.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/product/design/2016/02/29/imgix-perftool.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>product</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>imgix Visor, Web-Based image editing</title>
+        <description>&lt;section&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=320 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=320 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=320 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/7e2x1XRVk4Q&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/v6OQmlvVlyM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/Hqcy5X9hY30&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;section&gt;
+
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/product/design/2016/02/29/imgix-visor.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/product/design/2016/02/29/imgix-visor.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>product</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>imgix Dashboard Manager</title>
+        <description>&lt;section&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section&gt;
+
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/product/design/2016/02/29/imgix-dashboard.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/product/design/2016/02/29/imgix-dashboard.html</guid>
+        
+        <category>design</category>
+        
+        
+        <category>product</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Newest imgix Datacenter &amp; Racking Mac Pro Photographic Narratives</title>
+        <description>&lt;section&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Sun, 28 Feb 2016 02:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/2016/02/28/datacenter-photos.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/2016/02/28/datacenter-photos.html</guid>
+        
+        <category>photography</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>imgix Marketing</title>
+        <description>&lt;section&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section&gt;
+
+&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Sun, 28 Feb 2016 01:00:00 -0800</pubDate>
+        <link>http://miguelcardona.com/2016/02/28/imgix-blog-changelog.html</link>
+        <guid isPermaLink="true">http://miguelcardona.com/2016/02/28/imgix-blog-changelog.html</guid>
+        
+        <category>design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Designing the Tangible Experience of Interactive Memories</title>
+        <description>&lt;section&gt;
+
+&lt;p&gt;The process for memory keeping in the digital age has become easier, immediate, and more efficient thanks to the advent of sophisticated pocket-sized toolsets that can capture everyday experiences. Consumer-level photo and video recording products are introduced regularly and boast more fidelity, faster speeds, and greater control than their predecessors. More often than not, these expanding feature sets do not properly serve all of their users’ needs.&lt;/p&gt;
+
+&lt;p&gt;While the technology exists to allow for a nearcomplete record of one’s life to be made through the use of sensors and storage media, problems involve how best to meaningfully learn from and engage with a lifetime of collected content. With the intention of designing a system to streamline the storage and review process of digital memory keeping, I devised a conceptual framework of tangible objects and interactions to centralize memory media and provide a tangible experience for the review of life content.&lt;/p&gt;
+
+&lt;p&gt;Focusing on the design of products for “lifelogging,” the recording of everyday experience through digital sensory inputs, I researched human memory, memory making processes, and the Quantified Self movement.&lt;/p&gt;
+
+&lt;p&gt;My resulting concept is a system of interactions that incorporate physical objects, digital interfaces, wireless communication, and cloud– based storage that is meant to be a tactile, precious, and centralized way to review and engage with one’s memory.&lt;/p&gt;
+
+&lt;/section&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;figcaption&gt;Thesis Show&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;figcaption&gt;Thesis Show&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;figcaption&gt;Thesis Show&lt;/figcaption&gt;
+
 &lt;/figure&gt;
 
 &lt;section&gt;
@@ -35,13 +672,20 @@
       <item>
         <title>Sketchbooked Illustrations</title>
         <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;p&gt;Sketchbooked started out  as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
-&lt;/figure&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
 
+
+&lt;/figure&gt;
 &lt;section&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
@@ -61,8 +705,16 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
+&lt;figure class=&quot;thumb&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
 &lt;/figure&gt;
 
 &lt;section&gt;
@@ -75,160 +727,6 @@
         
         <category>design</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Vignelli Center</title>
-        <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Fri, 12 Feb 2016 01:00:00 -0800</pubDate>
-        <link>http://miguelcardona.com/2016/02/12/vignelli.html</link>
-        <guid isPermaLink="true">http://miguelcardona.com/2016/02/12/vignelli.html</guid>
-        
-        <category>design</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Industrial Design</title>
-        <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Fri, 12 Feb 2016 01:00:00 -0800</pubDate>
-        <link>http://miguelcardona.com/2016/02/12/industrial-design.html</link>
-        <guid isPermaLink="true">http://miguelcardona.com/2016/02/12/industrial-design.html</guid>
-        
-        <category>design</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>imgix Sandbox</title>
-        <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Fri, 12 Feb 2016 01:00:00 -0800</pubDate>
-        <link>http://miguelcardona.com/2016/02/12/imgix-sandbox.html</link>
-        <guid isPermaLink="true">http://miguelcardona.com/2016/02/12/imgix-sandbox.html</guid>
-        
-        <category>design</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>imgix Marketing</title>
-        <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Fri, 12 Feb 2016 01:00:00 -0800</pubDate>
-        <link>http://miguelcardona.com/2016/02/12/imgix-marketing-site.html</link>
-        <guid isPermaLink="true">http://miguelcardona.com/2016/02/12/imgix-marketing-site.html</guid>
-        
-        <category>design</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>imgix Dashboard</title>
-        <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;figure&gt;
-&lt;img src=&quot;https://assets.imgix.net/examples/blueberries.jpg?w=1200&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-</description>
-        <pubDate>Fri, 12 Feb 2016 01:00:00 -0800</pubDate>
-        <link>http://miguelcardona.com/product/design/2016/02/12/imgix-dashboard.html</link>
-        <guid isPermaLink="true">http://miguelcardona.com/product/design/2016/02/12/imgix-dashboard.html</guid>
-        
-        <category>design</category>
-        
-        
-        <category>product</category>
-        
-        <category>design</category>
         
       </item>
     

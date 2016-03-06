@@ -3,11 +3,19 @@ layout: default
 ---
 <div class="post">
 
-	{% if page.headline %}
-	<article class="post-content">
-	<figure>
-		<img src="{{ page.headline }}" id="view"/>
-	</figure>
+
+	<article class="post-content" id="view"> 
+
+  {% if page.headline %}
+    <figure>
+      <picture>
+          <source media="(min-width: 1280px)" srcset="{{ page.headline }}&w=1200 1x, {{ page.headline }}&w=1200&dpr=2&q=45 2x">
+          <source media="(min-width: 768px)" srcset="{{ page.headline }}&w=1000 1x, {{ page.headline }}&w=1000&dpr=2&q=45 2x">
+          <source media="(min-width: 480px)" srcset="{{ page.headline }}&w=800 1x, {{ page.headline }}&w=800&dpr=2&q=45 2x">
+          <source media="(max-width: 479px)" srcset="{{ page.headline }}&w=480&q=80 1x, {{ page.headline }}&w=480&dpr=2&q=45 2x">
+          <img src="{{ page.headline }}&w=640&q=80" {% if include.caption %} alt="{{ page.title }}" {% endif %}>
+      </picture>
+    </figure>
 	{% endif %}
 
   <header class="post-header">
@@ -24,11 +32,118 @@ layout: default
   <nav class="post-list">
     {% for post in site.posts %}
     
-    	<div class="project-item">
-    		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}#view">
-	          <img src="{{ post.thumbnail }}" align="center" />
-	          <h3>{{ post.title }}</h3>
-	        </a>
-		</div>
+    	<div class="project-item" {% if post.accentcolor %} style="background-color:#{{ post.accentcolor }};"{% else %}style="background-color:#1DA9E2;" {% endif %}>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <img src="{{ post.thumbnail }}" align="center" />
+            {% if post.thumbtitle %}<h3>{{ post.thumbtitle }}<br><small>{{ post.thumbdesc }}</small></h3>
+            {% else %}<h3>{{ post.title }}<br><small>{{ post.tags }}</small></h3>
+            {% endif %}
+          </a>
+    </div>
     {% endfor %}
   </nav>
+<div id="lightbox">
+      <div id="lightbox-next"></div>
+    <div id="lightbox-prev"></div>
+    <div id="lightbox-close"></div>
+    <div id="lightbox-hit"></div>
+    <div id="thumb-loader" class="loading-animation hidden">
+        <div class="loading-nub"></div>
+        <div class="loading-nub"></div>
+        <div class="loading-nub"></div>
+        <div class="loading-nub"></div>
+        <div class="loading-nub"></div>
+    </div>
+
+</div>
+
+<script type="text/javascript" src="https://www.imgix.com/libraries/imgix.js"></script>
+<script>
+var lightbox = document.getElementById('lightbox'),
+    lightboxhit = document.getElementById('lightbox-hit'),
+    loadingani = document.getElementById('thumb-loader'),
+    thumbs = document.getElementsByClassName('imgix-thumb'),
+    currentImage, currentID, imageURL;
+
+function openLightbox() {
+    lightbox.classList.add('visible');
+    loadingani.classList.remove('hidden');
+}
+
+function closeLightbox() {
+    lightbox.classList.remove('visible');
+}
+
+function openItem() {
+    imageURL = this.getAttribute('data-src');
+    currentID = this.thumbID;
+    changeLightboxImage();
+}
+
+function nextItem() {
+    if (currentID < thumbs.length - 1) {
+        currentID++;
+    } else {
+        currentID = 0;
+    }
+    imageURL = thumbs[currentID].getAttribute('data-src');
+    changeLightboxImage();
+}
+
+function prevItem() {
+    if (currentID > 0) {
+        currentID--;
+    } else {
+        currentID = thumbs.length - 1;
+    }
+    imageURL = thumbs[currentID].getAttribute('data-src');
+    changeLightboxImage();
+}
+
+function changeLightboxImage() {
+    var newImage;    
+    newImage = document.createElement('img');
+    newImage.setAttribute('data-src', imageURL);
+    newImage.classList.add('imgix-lightbox');
+    newImage.addEventListener('click', nextItem);
+    loadingani.classList.remove('hidden');
+
+    if (!!currentImage) {
+        lightbox.replaceChild(newImage, currentImage);
+    } else {
+        lightbox.appendChild(newImage);
+    }
+
+    currentImage = newImage;
+
+    openLightbox();
+
+    imgix.fluid({
+        fluidClass: 'imgix-lightbox',
+        updateOnResizeDown: true,
+        fitImgTagToContainerHeight: true,
+        fitImgTagToContainerWidth: true,
+        onChangeParamOverride: function() {
+            return {
+                fit: "max",
+                q:"45",
+                fm:"pjpg",
+                auto:"format",
+                border:"8,fff"
+
+            }
+        },
+        onLoad: function(el) {
+            loadingani.classList.add('hidden');
+            el.classList.add('fadeIn');
+              }
+    });
+}
+
+lightboxhit.addEventListener('click', closeLightbox);
+
+for (var i = 0; i < thumbs.length; i++) {
+    thumbs[i].thumbID = i;
+    thumbs[i].addEventListener('click', openItem);
+}
+</script>

@@ -17,12 +17,12 @@ permalink: /resume/
         <section id="main-cv" class="home">
 
         <nav class="cv" style="text-align:center;">
-            <a class="cvbtn0 selected" href="#cvnav">Personal Statement</a>
-            <a class="cvbtn1" href="#cvnav">Experience</a>
+            <a class="cvbtn0" href="#cvnav">Personal Statement</a>
+            <a class="cvbtn1 selected" href="#cvnav">Experience</a>
             <a class="cvbtn2" href="#cvnav">Education</a>
             <a class="cvbtn3" href="#cvnav">Honors / Press</a>
         </nav>
-        <div class="cv_area0">
+        <div class="cv_area0 hidden">
             <section class="cv">
                 <h3>Personal Statement</h3>
                 <p>I produce a focused and diversified approach to user driven product design with over 16 years of experience designing and developing internet driven marketing and products, including 8 years instructing at the University level. </p>
@@ -30,11 +30,11 @@ permalink: /resume/
             </section>
         </div>
         <!-- Experience -->
-        <div class="cv_area1 hidden">
+        <div class="cv_area1">
             <section class="cv">
                 <h3>Lead Designer</h3>
                 <h4>imgix</h4>
-                <p>Lead Designer in charge of branding and visual design of Y Combinator startup, imgix, in San Francisco, CA. imgix solves modern problems associated with web development, provides innovative ways to process imagery on the web, and aspires to be the "graphics card" for the internet.</p>
+                <p>Lead Designer in charge of product, branding and visual design of Y Combinator startup, imgix, in San Francisco, CA. imgix solves modern problems associated with images in web and app development, provides innovative ways to process imagery on the web, and aspires to be the "graphics card" for the internet.</p>
                 <ul>
                     <li>San Francisco, CA</li>
                     <li>JUN 2013 &ndash; Present</li>
@@ -183,6 +183,8 @@ permalink: /resume/
                     </section>
                     <section class="cv">
                         <h3>Speaking Engagements and Gallery Showings</h3>
+                            <p>Thought at Work Speaker. "Designing Performance" <span class="cv-date">OCT 2015</span></p>
+                            <p>Sketch Tuesdays Featured Artist <span class="cv-date">MAY/JULY/OCT 2015</span></p>
                             <p>Thought at Work Speaker. "Color Hacks" <span class="cv-date">OCT 2013, OCT 2014</span></p>
                             <p>2013 MFA Thesis Gallery Show. Bevier Gallery <span class="cv-date">MAR 2013</span></p>
                 <p>Refresh Rochester, Speaker 'Designing for Retinas' <span class="cv-date">FEB 2013</span></p>

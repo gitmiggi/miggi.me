@@ -11,7 +11,8 @@
 
 
 
-  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700|Merriweather+Sans:800,700,400,400italic' rel='stylesheet' type='text/css'> 
+  <link href='http://fonts.googleapis.com/css?family=Merriweather+Sans:400,400italic,600,800|Merriweather:400' rel='stylesheet' type='text/css'> 
+
         
   <link rel="stylesheet" href="/css/main.css">
   
@@ -28,11 +29,17 @@
         <div class="logo"> <a class="site-title" href="/">Miguel A. Cardona Jr. <span class="title">Designer & Illustrator</span></a>
         </div>
         <nav class="navbar-nav">
-             
+         <!--     
             <a class="page-link" href="/about/">About Me</a>   
             <a class="page-link" href="/resume/">Curriculum Vitae</a>   
-            <a class="page-link" href="/design/">Product & Design</a>     
-            <a class="page-link" href="/illustration-photography/">Illustration & Photography</a>      
+            <a class="page-link" href="/design/">Design & Product</a>     
+            <a class="page-link" href="/illustration-photography/">Illustration & Photography</a>   
+            <a class="page-link" href="/index.html">Miguel A. Cardona Designer & Illustrator</a>     -->
+            <a class="page-link" href="/">All Projects</a> 
+            <a class="page-link" href="/design">Design & Product</a> 
+            <a class="page-link" href="/illustration-photography">Illustration & Photography</a> 
+            <a class="page-link" href="/about">About Me</a>
+            <a class="page-link" href="/resume">Resumé</a>  
         </nav>
         <nav id="miggi-menu-button">
             <div id="miggi-menu-bars"></div>
@@ -55,12 +62,12 @@
         <section id="main-cv" class="home">
 
         <nav class="cv" style="text-align:center;">
-            <a class="cvbtn0 selected" href="#cvnav">Personal Statement</a>
-            <a class="cvbtn1" href="#cvnav">Experience</a>
+            <a class="cvbtn0" href="#cvnav">Personal Statement</a>
+            <a class="cvbtn1 selected" href="#cvnav">Experience</a>
             <a class="cvbtn2" href="#cvnav">Education</a>
             <a class="cvbtn3" href="#cvnav">Honors / Press</a>
         </nav>
-        <div class="cv_area0">
+        <div class="cv_area0 hidden">
             <section class="cv">
                 <h3>Personal Statement</h3>
                 <p>I produce a focused and diversified approach to user driven product design with over 16 years of experience designing and developing internet driven marketing and products, including 8 years instructing at the University level. </p>
@@ -68,11 +75,11 @@
             </section>
         </div>
         <!-- Experience -->
-        <div class="cv_area1 hidden">
+        <div class="cv_area1">
             <section class="cv">
                 <h3>Lead Designer</h3>
                 <h4>imgix</h4>
-                <p>Lead Designer in charge of branding and visual design of Y Combinator startup, imgix, in San Francisco, CA. imgix solves modern problems associated with web development, provides innovative ways to process imagery on the web, and aspires to be the "graphics card" for the internet.</p>
+                <p>Lead Designer in charge of product, branding and visual design of Y Combinator startup, imgix, in San Francisco, CA. imgix solves modern problems associated with images in web and app development, provides innovative ways to process imagery on the web, and aspires to be the "graphics card" for the internet.</p>
                 <ul>
                     <li>San Francisco, CA</li>
                     <li>JUN 2013 &ndash; Present</li>
@@ -221,6 +228,8 @@
                     </section>
                     <section class="cv">
                         <h3>Speaking Engagements and Gallery Showings</h3>
+                            <p>Thought at Work Speaker. "Designing Performance" <span class="cv-date">OCT 2015</span></p>
+                            <p>Sketch Tuesdays Featured Artist <span class="cv-date">MAY/JULY/OCT 2015</span></p>
                             <p>Thought at Work Speaker. "Color Hacks" <span class="cv-date">OCT 2013, OCT 2014</span></p>
                             <p>2013 MFA Thesis Gallery Show. Bevier Gallery <span class="cv-date">MAR 2013</span></p>
                 <p>Refresh Rochester, Speaker 'Designing for Retinas' <span class="cv-date">FEB 2013</span></p>
@@ -301,7 +310,7 @@ $(document).ready(function() {
 
     <footer>
     <nav class="contact">
-        <a href='mailt&#111;&#58;hel&#108;&#111;&#64;&#109;%&#54;9&#103;uelca%72don&#97;&#46;&#99;o%6&#68;' class="email sec-btn" target="_blank">E–Mail Me</a>
+        <a href='mailt&#111;&#58;hel&#108;&#111;&#64;&#109;%&#54;9&#103;uelca%72don&#97;&#46;&#99;o%6&#68;' class="email sec-btn" target="_blank">E-Mail Me</a>
         <a href="http://www.dribbble.com/miggi" title="dribbble" target="_blank" class="dribbble sec-btn">My Dribbble Shots</a>
         <a href="http://instagram.com/instamiggi" target="_blank" title="instamiggi!" class="instagram sec-btn">My Instagrams</a>
         <a href="http://www.twitter.com/miggi" target="_blank" class="twitter sec-btn" title="Tweet Me!">My Tweets</a>
@@ -310,7 +319,7 @@ $(document).ready(function() {
     <p class="copyright-notice">All Content Copyright &copy; 2000&ndash;2016 Miguel A. Cardona Jr. Unless otherwise noted.</p>
 </footer>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.2/picturefill.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
 window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.2.min.js"><\/script>')
@@ -321,6 +330,7 @@ window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.2.min.js"><
 var mainmenu = false;
 
 $(document).ready(function() {
+
     $('#miggi-menu-button').click(function(e) {
         e.preventDefault();
         openMenu();
@@ -334,6 +344,8 @@ $(document).ready(function() {
         }
     });
 });
+
+
 
 
 

@@ -6,7 +6,14 @@ permalink: /about/
 
 <article class="post-content">
 <figure>
-<img src="http://migimages.imgix.net/ig/profile.jpg?fit=crop&w=1200&h=320">
+	
+<picture>
+          <source media="(min-width: 1280px)" srcset="http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=1024&q=65 1x, http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=1024&q=65&dpr=2&q=45 2x">
+          <source media="(min-width: 768px)" srcset="http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=1000&q=65 1x, http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=1000&q=65&dpr=2&q=45 2x">
+          <source media="(min-width: 480px)" srcset="http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=800 &q=651x, http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=800&&q=65dpr=2&q=45 2x">
+          <source media="(max-width: 479px)" srcset="http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=480&w=480&&q=65q=80 1x, http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=480&w=480&&q=65dpr=2&q=45 2x">
+          <img src="http://migimages.imgix.net/illustration/sketchbooked-033.png?chromasub=444&dpr=2&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=400&w=640&&q=65q=80" {% if include.caption %} alt="Self Portriat" {% endif %}>
+      </picture>
 </figure>
 
 <section>
@@ -16,7 +23,7 @@ permalink: /about/
 
 <section>
 <p>
-	My name is <strong>Miguel Angel Cardona, Jr.</strong> I am a designer, illustrator, photographer, and creative developer. Currently the Lead Designer at <a href="https://imgix.com">imgix</a> in San Francisco, CA. I was previously a Visting Professor at the <a href="http://cias.rit.edu/schools/design">RIT School for Design</a> and a co–founder of <a href="
+	My name is <strong>Miguel Angel Cardona, Jr.</strong> I am a designer, illustrator, photographer, and creative developer. Currently the Lead Designer at <a href="https://imgix.com">imgix</a> in San Francisco, CA. I was previously a Visting Professor at the <a href="http://cias.rit.edu/schools/design">RIT School for Design</a> and a co-founder of <a href="
 	http://dwaitercom">Dumbwaiter Design</a> in Rochester, NY.
 </p>
 	  
