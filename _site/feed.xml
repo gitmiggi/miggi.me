@@ -5,54 +5,134 @@
     <description>Miguel Cardona is a Designer, Illustrator and Photographer living in San Francisco, CA. He currently is the Lead Designer at imgix.</description>
     <link>http://miguelcardona.com/</link>
     <atom:link href="http://miguelcardona.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2016 13:49:18 -0800</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2016 13:49:18 -0800</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 01:18:42 -0800</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 01:18:42 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>imgix Marketing</title>
+        <title>imgix Marketing Website &amp; Content Pages</title>
         <description>&lt;section&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&quot; alt=&quot;imgix Homepage&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=1200 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=800 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=640 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=320 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
 &lt;/picture&gt;
 
 
 &lt;/figure&gt;
-&lt;figure class=&quot;thumb&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&quot; alt=&quot;Build Something Big Graphics&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=1200 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=800 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=640 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=320 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/buildbig.ai?fm=png8&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Build Something Big Graphics&quot; /&gt;
 &lt;/picture&gt;
 
 
 &lt;/figure&gt;
-&lt;figure class=&quot;thumb&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&quot; alt=&quot;Features Graphics&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=1200 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=800 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=640 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=320 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Features Graphics&quot; /&gt;
 &lt;/picture&gt;
 
 
 &lt;/figure&gt;
+
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+&lt;/section&gt;
 
 &lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;/section&gt;
+
+&lt;section&gt;
 
 &lt;h2&gt;This is a Subhead&lt;/h2&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
@@ -75,19 +155,40 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
-&lt;/picture&gt;
+&lt;section class=&quot;thumblist&quot;&gt;
 
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/sandbox/sandbox2.png?fm=pjpg&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
 
 &lt;/figure&gt;
 
+
+&lt;/section&gt;
+
 &lt;section&gt;
+	&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;video id=&quot;sandbox2&quot; width=&quot;640&quot; poster=&quot;https://assets.imgix.net/sandbox/sandbox-mask.gif?frame=3&quot; controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; style=&quot;border:solid 1px #e3eaef;&quot;&gt;
+        &lt;source src=&quot;https://assets.imgix.net/sandbox/sandbox-mask.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+        &lt;img src=&quot;https://assets.imgix.net/sandbox/sandbox-mask.gif&quot; alt=&quot;image&quot; /&gt;
+      &lt;/video&gt;
+ &lt;/figure&gt;
+&lt;h2&gt;This is a Subhead&lt;/h2&gt;
+&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+ &lt;figure&gt;
+ 	&lt;video id=&quot;sandbox1&quot; width=&quot;640&quot; poster=&quot;https://assets.imgix.net/sandbox/sandbox1.gif?frame=1&quot; controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; style=&quot;border:solid 1px #e3eaef;&quot;&gt;
+        &lt;source src=&quot;https://assets.imgix.net/sandbox/sandbox-docs.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+        &lt;img src=&quot;https://assets.imgix.net/sandbox/sandbox1.gif&quot; class=&quot;dpr-compat&quot; alt=&quot;image&quot; /&gt;
+      &lt;/video&gt;
+&lt;/figure&gt;
 
 &lt;h3&gt;This is a Subhead&lt;/h3&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
@@ -113,13 +214,13 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&quot; alt=&quot;imgix Datacenter&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
 &lt;/picture&gt;
 
 
@@ -155,51 +256,58 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix visor Comps &quot; data-src=&quot;http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&quot;&gt;
+
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=320 1x, http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/visor/visor1.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor1.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
-
-
-&lt;/figure&gt;
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=320 1x, http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/visor/visor2.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
-&lt;/picture&gt;
-
-
-&lt;/figure&gt;
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=320 1x, http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/visor/visor3.png?w=1200&amp;amp;dpr=2&amp;amp;fm=png8&amp;amp;trim=auto&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
-&lt;/picture&gt;
-
 
 &lt;/figure&gt;
 
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix visor Comps &quot; data-src=&quot;http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor2.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix visor Comps &quot; data-src=&quot;http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor3.png?fm=png8&amp;amp;pad=20&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+&lt;/section&gt;
+
+&lt;section&gt;
 &lt;div class=&quot;video-container&quot;&gt;
-	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/7e2x1XRVk4Q&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/7e2x1XRVk4Q?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
-	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/v6OQmlvVlyM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/v6OQmlvVlyM?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;video-container&quot;&gt;
-	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/Hqcy5X9hY30&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/Hqcy5X9hY30?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+&lt;/section&gt;
 
 &lt;section&gt;
 
@@ -231,13 +339,13 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&quot; alt=&quot;imgix Datacenter&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
 &lt;/picture&gt;
 
 
@@ -273,13 +381,13 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&quot; alt=&quot;Racking Mac Pros&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Racking Mac Pros&quot; /&gt;
 &lt;/picture&gt;
 
 
@@ -287,7 +395,7 @@
 
 &lt;section class=&quot;thumblist&quot;&gt;
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Heeader Image &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -296,11 +404,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -309,11 +416,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -322,11 +428,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -335,11 +440,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -348,11 +452,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -361,11 +464,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -374,11 +476,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -387,11 +488,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -399,7 +499,6 @@
     &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
-
 
 &lt;/figure&gt;
 
@@ -412,13 +511,13 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&quot; alt=&quot;imgix Datacenter&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
 &lt;/picture&gt;
 
 
@@ -426,7 +525,7 @@
 
 &lt;section class=&quot;thumblist&quot;&gt;
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -435,11 +534,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -448,11 +546,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -461,11 +558,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -474,11 +570,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -487,11 +582,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -500,11 +594,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -513,11 +606,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&amp;amp;crop=left&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -526,11 +618,10 @@
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
-
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-thumb&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&quot;&gt;
 
 &lt;picture&gt;
     &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
@@ -538,7 +629,6 @@
     &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
     &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
-
 
 &lt;/figure&gt;
 
@@ -563,32 +653,43 @@
       </item>
     
       <item>
-        <title>imgix Marketing</title>
+        <title>imgix Miscellaneous Visuals &amp; Projects</title>
         <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
-&lt;/picture&gt;
-
-
+&lt;p&gt;This showcase is a serious of various designs, elements, and collateral produced for imgix from 2013-2016. These include animations, promotions, blog designs, illustrations, and photography. &lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/gif/ixani.gif&quot; /&gt;
+&lt;figcaption&gt;
+	imgix &quot;IX&quot; gif demo image
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;section&gt;
-
-&lt;h3&gt;This is a Subhead&lt;/h3&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/gif/sandbox.gif&quot; /&gt;
+&lt;figcaption&gt;
+	imgix Sandbox Logo Animation
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/gif/screens.gif&quot; /&gt;
+&lt;figcaption&gt;
+	Responsive Image Screen Animation
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/gif/dashboard.gif&quot; /&gt;
+&lt;figcaption&gt;
+	Dashboard Analytics Announcement Animation
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 
 &lt;h2&gt;This is a Subhead&lt;/h2&gt;
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;thumblist&quot;&gt;
+	
 &lt;/section&gt;
 </description>
         <pubDate>Sun, 28 Feb 2016 01:00:00 -0800</pubDate>
@@ -604,60 +705,129 @@
         <title>Designing the Tangible Experience of Interactive Memories</title>
         <description>&lt;section&gt;
 
+&lt;p&gt;I completed my Masters of Fine Arts in the field of Industrial Design while teaching as a full-time Visiting Professor in the School of Design at RIT. &quot;Designing the Tangible Experience of Interactive Memories&quot; is my thesis project that fulfilled the requirements of the program. It is an exploration into the field of life logging, and in its physical product and interaction design dialogues. You can view the &lt;a href=&quot;http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=8640&amp;amp;context=theses&quot; target=&quot;_blank&quot;&gt;full text and process documentation&lt;/a&gt; on RIT&#39;s publication archives. The result of the project is a concept device entitled &quot;Moonwalk&quot;.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/moonwalk/moonwalk.gif&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Thesis Statement&lt;/h2&gt;
+
 &lt;p&gt;The process for memory keeping in the digital age has become easier, immediate, and more efficient thanks to the advent of sophisticated pocket-sized toolsets that can capture everyday experiences. Consumer-level photo and video recording products are introduced regularly and boast more fidelity, faster speeds, and greater control than their predecessors. More often than not, these expanding feature sets do not properly serve all of their users’ needs.&lt;/p&gt;
+
+
 
 &lt;p&gt;While the technology exists to allow for a nearcomplete record of one’s life to be made through the use of sensors and storage media, problems involve how best to meaningfully learn from and engage with a lifetime of collected content. With the intention of designing a system to streamline the storage and review process of digital memory keeping, I devised a conceptual framework of tangible objects and interactions to centralize memory media and provide a tangible experience for the review of life content.&lt;/p&gt;
 
 &lt;p&gt;Focusing on the design of products for “lifelogging,” the recording of everyday experience through digital sensory inputs, I researched human memory, memory making processes, and the Quantified Self movement.&lt;/p&gt;
 
-&lt;p&gt;My resulting concept is a system of interactions that incorporate physical objects, digital interfaces, wireless communication, and cloud– based storage that is meant to be a tactile, precious, and centralized way to review and engage with one’s memory.&lt;/p&gt;
+&lt;p&gt;My resulting concept is a proposal for a system of interactions that incorporate physical objects, digital interfaces, wireless communication, and cloud– based storage that is meant to be a tactile, precious, and centralized way to review and engage with one’s memory.&lt;/p&gt;
+
+&lt;/section&gt;
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
 
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320 1x, http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-003.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
-&lt;/picture&gt;
-
-
-&lt;figcaption&gt;Thesis Show&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320 1x, http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-001.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
-&lt;/picture&gt;
-
-
-&lt;figcaption&gt;Thesis Show&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-&lt;figure class=&quot;thumb&quot;&gt;
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fit=max&amp;amp;fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
-&lt;/picture&gt;
-
-
-&lt;figcaption&gt;Thesis Show&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
 &lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+	&lt;div class=&quot;video-container&quot;&gt;
+		&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/HhfdxSh34gs?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-006.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&quot; alt=&quot;Thesis Show&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/moonwalk/ani2.gif&quot; /&gt;
+&lt;/figure&gt;
+
+
 &lt;/section&gt;
 </description>
         <pubDate>Fri, 12 Feb 2016 14:44:58 -0800</pubDate>
@@ -672,23 +842,546 @@
       <item>
         <title>Sketchbooked Illustrations</title>
         <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out  as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+&lt;p&gt;Sketchbooked as started out  as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+&lt;p&gt;This has been an ongoing project of mine that has given me many opportunities for freelance design work, allowed me to reconnect with others, and helped me explore visual media and experiment without reservation.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked_gal_960.jpg?sat=20&amp;amp;usm=12&amp;amp;fm=pjpg&amp;amp;q=85&amp;amp;chromasub=444&quot; alt=&quot;Gallery Opening&quot; /&gt;&lt;/figure&gt;
+&lt;h2&gt;Sketchbooked Gallery Opening&lt;/h2&gt;
+&lt;p&gt;I was asked to display my work at a letterpress studio in downtown Rochester, NY. in March of 2012, I had my first Sketchbooked Gallery Opening. For the event, I displayed 12 pieces, some remixed for the event. All pieces were printed on canvas, coated and gallery mounted on wood frames.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Geoff Brown &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-015.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
 &lt;/picture&gt;
 
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Mike Roushey &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-001.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
 
 &lt;/figure&gt;
-&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Pianist &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-002.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Ibe &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-003.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Gask Mask &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-004.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Ana &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Raymond &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Father &amp;amp; Son &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Preacher Man &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Abeer &amp;amp; Elias &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Ana &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Joanna &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Tio Cheo &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Ali &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Drummer Boy &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Emily &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Jenn &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-022.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-023.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-024.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-025.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-026.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-027.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-028.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-029.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;usm=12&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
 &lt;/section&gt;
+&lt;section&gt;
+	&lt;h2&gt;Video Title&lt;/h2&gt;
+&lt;p&gt;This has been an ongoing project of mine that has given me many opportunities for freelance design work, allowed me to reconnect with others, and helped me explore visual media and experiment without reservation.&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;960&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/skR_n0EcZxM?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;960&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/TIyuLl9cCVg?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
 </description>
         <pubDate>Fri, 12 Feb 2016 14:44:58 -0800</pubDate>
         <link>http://miguelcardona.com/2016/02/12/sketchbooked-illustrations.html</link>
@@ -705,13 +1398,13 @@
 &lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;thumb&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&quot; alt=&quot;imgix Datacenter&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
 &lt;/picture&gt;
 
 

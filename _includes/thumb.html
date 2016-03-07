@@ -1,5 +1,5 @@
 
-<figure class="imgix-thumb" data-src="{{ include.img }}">
+<figure class="imgix-lightbox-item imgix-thumb" alt="{{ include.alt }} " data-src="{{ include.img }}" >
 
 <picture>
     <source media="(min-width: 640px)" srcset="{{ include.img }}&auto=format&w=320&h=320&fit=crop 1x, {{ include.img }}&auto=format&w=320&h=320&fit=crop&dpr=2&q=45 2x">
@@ -8,7 +8,4 @@
     <img  src="{{ include.img }}&auto=format&w=240&h=240&fit=crop&q=45" {% if include.caption %} alt="{{ include.alt }}" {% endif %}>
 </picture>
 
-{% if include.caption %}
-<figcaption>{{ include.caption }}</figcaption>
-{% endif %}
 </figure>

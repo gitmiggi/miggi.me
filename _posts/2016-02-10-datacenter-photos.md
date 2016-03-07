@@ -4,7 +4,7 @@ title:  "Newest imgix Datacenter & Racking Mac Pro Photographic Narratives"
 date:   2016-02-28 10:00:00
 tags: photography
 headline: http://migimages.imgix.net/datacenter/racking-mac-002.jpg?fm=pjpg&h=400&fit=crop&crop=entropy
-thumbnail: http://migimages.imgix.net/datacenter/racking-mac-001.jpg?dpr=2&fit=crop&fm=pjpg&h=300&w=300&auto=format&q=80
+thumbnail: http://migimages.imgix.net/datacenter/racking-mac-001.jpg?dpr=2&fit=crop&fm=pjpg&h=320&w=320&auto=format&q=80&pad=8&bg=fff
 thumbtitle: imgix Datacenter Stories
 thumbdesc: Photography, Marketing
 accentcolor: 92a5ba
@@ -14,11 +14,11 @@ accentcolor: 92a5ba
 <p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
 </section>
 
-{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg" alt="imgix Datacenter" lihtbox=true%}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg" alt="Racking Mac Pros" lihtbox=true%}
 
 <section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg" alt="Heeader Image" %}
+{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg" %}
 {% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg" alt="imgix Datacenter" %}
 {% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg" alt="imgix Datacenter" %}
 {% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg" alt="imgix Datacenter" %}

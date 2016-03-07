@@ -4,10 +4,10 @@ title:  "imgix Scale, Site Performance Utiliy"
 date:   2016-02-29 09:00:00
 categories: product design
 tags: design
-thumbnail: http://migimages.imgix.net/performance/perftool_icon.ai?fit=crop&fm=pjpg&h=200&w=200&page=1&q=85&w=200&colorquant=128&fm=png8&dpr=2&bg=14C5F7
+thumbnail: http://migimages.imgix.net/performance/perftool_icon.ai?fit=crop&fm=pjpg&h=320&w=320&page=1&q=85&colorquant=128&fm=png8&dpr=2&bg=14C5F7&border=8,fff
 thumbtitle: imgix Scale 
 thumbdesc: Web Optimization Analyzer
-accentcolor: 01A0D1
+accentcolor: 14c5f7
 ---
 
 <section>

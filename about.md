@@ -23,13 +23,12 @@ permalink: /about/
 
 <section>
 <p>
-	My name is <strong>Miguel Angel Cardona, Jr.</strong> I am a designer, illustrator, photographer, and creative developer. Currently the Lead Designer at <a href="https://imgix.com">imgix</a> in San Francisco, CA. I was previously a Visting Professor at the <a href="http://cias.rit.edu/schools/design">RIT School for Design</a> and a co-founder of <a href="
-	http://dwaitercom">Dumbwaiter Design</a> in Rochester, NY.
+	My name is <strong>Miguel Angel Cardona, Jr.</strong> I am a designer, illustrator, photographer, and front end tinkerer/developer. Currently the Lead Designer at <a href="https://imgix.com">imgix</a> in San Francisco, CA. I was previously a Visting Professor at the <a href="http://cias.rit.edu/schools/design">RIT School for Design</a> and a co-founder of the design agency, <a href="
+	http://dwaitercom">Dumbwaiter Design</a>.
 </p>
 	  
-<p>
-	I spend most of my time wandering the Bay Area with a cache of markers and a sketchbook in pursuit of inspiration. I can usually be found drawing on paper <a href="http://sketchcups.com" title="Sketch Cups" target="_blank">coffee cups</a> in one of my neighborhood cafes.
-</p>
+
+<p>This site is hand coded using the <a href="https://jekyllrb.com/">Jekyll</a> framework and makes use of <a href="http://imgix.com">imgix</a> for on-the-fly image manipulation. I use a combination of imgix along with <a href="https://www.imgix.com/imgix-js">imgix.js</a>, <code>picture</code> element and its polyfill, <a href="https://scottjehl.github.io/picturefill/">picturefill</a>, for retina and responsive images.</p>
 
 <p>
 Feel free to drop me a <a href="mailt&#111;&#58;hel&#108;&#111;&#64;&#109;%&#54;9&#103;uelca%72don&#97;&#46;&#99;o%6&#68;">Drop me a line</a>.

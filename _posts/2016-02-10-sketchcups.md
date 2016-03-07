@@ -3,7 +3,7 @@ layout: post
 title:  "Sketch Cups"
 date:   2016-02-12 09:00:00
 tags: illustration
-thumbnail: http://migimages.imgix.net/cups/sketchsaturdays.jpg?dpr=2&fit=crop&fm=pjpg&h=300&w=300&bri=5&con=5&chromasub=444
+thumbnail: http://migimages.imgix.net/cups/sketchsaturdays.jpg?dpr=2&fit=crop&fm=pjpg&h=320&w=320&bri=5&con=5&chromasub=444&pad=8&bg=fff
 thumbtitle: Coffee Cup Art
 thumbdesc: Viral Illustration Project
 accentcolor: b33630

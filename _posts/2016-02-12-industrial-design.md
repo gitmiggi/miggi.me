@@ -4,10 +4,10 @@ title:  "Industrial Design"
 date:   2016-02-12 09:00:00
 tags: design
 headline: http://migimages.imgix.net/id/idlogo.pdf?bg=01A0D1&fit=crop&fm=png8&h=320&&w=1000&fm=png8&colorquant=48&fit=fill
-thumbnail: http://migimages.imgix.net/id/idlogo.pdf?bg=fff&dpr=2&fit=crop&h=200&w=200&fm=png8&colorquant=48
+thumbnail: http://migimages.imgix.net/id/idlogo.pdf?bg=fff&dpr=2&fit=crop&h=320&w=320&fm=png8&colorquant=48&pad=8
 thumbtitle: Industrial Design
 thumbdesc: Misc Projects & Process
-accentcolor: 2c4f7d
+accentcolor: 01A0D1
 ---
 
 <section>
