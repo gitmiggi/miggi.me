@@ -30,10 +30,7 @@ accentcolor: e8e4e4
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-005.jpg?fm=pjpg&chromasub=444&usm=12" alt="Ana" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-006.png?fm=pjpg&chromasub=444&usm=12" alt="Raymond" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-007.jpg?fm=pjpg&chromasub=444&usm=12" alt="Father & Son" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-008.jpg?fm=pjpg&chromasub=444&usm=12" alt="Preacher Man" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-009.jpg?fm=pjpg&chromasub=444&usm=12" alt="Abeer & Elias" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-010.jpg?fm=pjpg&chromasub=444&usm=12" alt="Ana" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-011.jpg?fm=pjpg&chromasub=444&usm=12" alt="Joanna" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-012.jpg?fm=pjpg&chromasub=444&usm=12" alt="Tio Cheo" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-013.jpg?fm=pjpg&chromasub=444&usm=12" alt="Ali" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&chromasub=444&usm=12" alt="Drummer Boy" %}
@@ -54,17 +51,17 @@ accentcolor: e8e4e4
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-030.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-031.png?fm=pjpg&chromasub=444&usm=12&crop=top" alt="" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-032.png?fm=pjpg&chromasub=444&usm=12&crop=top" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&chromasub=444&usm=12" alt="" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&chromasub=444&usm=12" alt="" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-033.png?fm=pjpg&chromasub=444&usm=12" alt="Distorted Self Portrait" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-034.png?fm=pjpg&chromasub=444&usm=12" alt="Asa Face Outline" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-035.png?fm=pjpg&chromasub=444&usm=12" alt="Asa Face" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-036.png?fm=pjpg&chromasub=444&usm=12" alt="Asa Face Vector Paths" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-037.jpg?fm=pjpg&chromasub=444&usm=12" alt="Drummer Boy Print" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-038.jpg?fm=pjpg&chromasub=444&usm=12" alt="Dragon Face Print" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-039.jpg?fm=pjpg&chromasub=444&usm=12" alt="cthulhu Print" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-040.jpg?fm=pjpg&chromasub=444&usm=12" alt="Dragon Face" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-041.png?fm=pjpg&chromasub=444&usm=12" alt="Dragon Face" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-042.jpg?fm=pjpg&chromasub=444&usm=12" alt="Dragon Face" %}
+{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&chromasub=444&usm=12" alt="Dragon Face" %}
 </section>
 <section>
 	<h2>Video Title</h2>

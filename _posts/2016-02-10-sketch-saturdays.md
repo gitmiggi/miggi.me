@@ -10,7 +10,7 @@ accentcolor: b33630
 ---
 
 <section>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
+<p>Placeholder</p>
 </section>
 
 <div class="video-container">
@@ -20,11 +20,4 @@ accentcolor: b33630
 
 <section>
 
-<h3>This is a Subhead</h3>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-
-<h2>This is a Subhead</h2>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
 </section>

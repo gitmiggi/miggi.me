@@ -24,11 +24,16 @@ accentcolor: E95630
 
 <section class="thumblist">
 {% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,0,.999,.4625&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,.465,.999,.05&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,.465,.999,.05&crop=top&usm=15&bg=fafafa&fit=fill" alt="imgix Datacenter" %}
 {% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,.515,.999,.5&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/pricing2.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
 {% include thumb.html img="https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
 {% include thumb.html img="https://migimages.imgix.net/imgix/referral.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
+{% include thumb.html img="https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
 </section>
 
 

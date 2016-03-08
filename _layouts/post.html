@@ -7,7 +7,7 @@ layout: default
 	<article class="post-content" id="view"> 
 
   {% if page.headline %}
-    <figure class="imgix-lightbox-item" data-src="{{ page.headline }}">
+    <figure class="imgix-lightbox-item headline" data-src="{{ page.headline }}" alt="{{ page.title }}">
       <picture>
           <source media="(min-width: 1280px)" srcset="{{ page.headline }}&w=1200 1x, {{ page.headline }}&w=1200&dpr=2&q=45 2x">
           <source media="(min-width: 768px)" srcset="{{ page.headline }}&w=1000 1x, {{ page.headline }}&w=1000&dpr=2&q=45 2x">
@@ -20,7 +20,6 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-  <!--   <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
   </header>
 
   <article class="post-content">
@@ -28,7 +27,7 @@ layout: default
   </article>
 
 </div>
-
+<hr class="page-divider">
   <nav class="post-list">
     {% for post in site.posts %}
     <div class="project-item" {% if post.accentcolor %} style="background-color:#{{ post.accentcolor }};"{% else %}style="background-color:#1DA9E2;" {% endif %}>
@@ -147,11 +146,9 @@ function changeLightboxImage() {
         onChangeParamOverride: function() {
             return {
                 fit: "max",
-                q:"45",
-                fm:"pjpg",
-                auto:"format",
-                border:"8,fff",
-                pad:"8"
+                q:"90",
+                chromasub:"444",
+                fm:"pjpg"
 
             }
         },

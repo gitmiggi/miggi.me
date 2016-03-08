@@ -11,13 +11,22 @@ accentcolor: 425362
 ---
 
 <section>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
+<p>Visor is a user interface for learning about how imgix image manipulations work on an image. The tool provides the user with a visual approach to working with the imgix API. Resizing, cropping, blurring as well as dozens of other imgix operations can be lived tested with visor. </p>
+<p>Visor was a work in progress collaboration with one of the front-end engineers and I. It was an attempt to better relate the imgix product to designers. There were several incarnations including versions that existed in page, that had a number of intuitive interactions, and specialized use cases. Ultimately, the project was not kept up and supported after two years in favor of newer endevours such as imgix Sandbox.</p>
 </section>
 
+{% include picture.html img="http://migimages.imgix.net/visor/visor-screen1.png?fm=png8&bg=1C232E" alt="imgix visor Comps" %}
+
+{% include picture.html img="http://migimages.imgix.net/visor/visor-mini.png?fm=png8&pad=20&bg=1C232E" alt="imgix visor Comps" %}
+
+{% include picture.html img="http://migimages.imgix.net/visor/visor-mini1.png?fm=png8&pad=20&bg=1C232E" alt="imgix visor Comps" %}
+
+{% include picture.html img="http://migimages.imgix.net/visor/visor-interface.png?fm=png8&pad=20&bg=1C232E" alt="imgix visor Comps" %}
+
 <section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/visor/visor1.png?fm=png8&pad=20&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include thumb.html img="http://migimages.imgix.net/visor/visor2.png?fm=png8&pad=20&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include thumb.html img="http://migimages.imgix.net/visor/visor3.png?fm=png8&pad=20&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include thumb.html img="http://migimages.imgix.net/visor/visor1.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include thumb.html img="http://migimages.imgix.net/visor/visor2.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include thumb.html img="http://migimages.imgix.net/visor/visor3.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
 </section>
 
 <section>
@@ -34,13 +43,3 @@ accentcolor: 425362
 </div>
 </section>
 
-<section>
-
-<h3>This is a Subhead</h3>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-
-<h2>This is a Subhead</h2>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-</section>
