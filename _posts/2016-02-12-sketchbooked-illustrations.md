@@ -36,7 +36,6 @@ accentcolor: e8e4e4
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-014.jpg?fm=pjpg&chromasub=444&usm=12" alt="Drummer Boy" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-016.png?fm=pjpg&chromasub=444&usm=12" alt="Emily" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-017.png?fm=pjpg&chromasub=444&usm=12" alt="Jenn" %}
-{% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-018.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-019.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-020.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-021.png?fm=pjpg&chromasub=444&usm=12" alt="" %}
@@ -64,8 +63,8 @@ accentcolor: e8e4e4
 {% include thumb.html img="http://migimages.imgix.net/illustration/sketchbooked-043.jpg?fm=pjpg&chromasub=444&usm=12" alt="Dragon Face" %}
 </section>
 <section>
-	<h2>Video Title</h2>
-<p>This has been an ongoing project of mine that has given me many opportunities for freelance design work, allowed me to reconnect with others, and helped me explore visual media and experiment without reservation.</p>
+	<h2>Time Lapse Process</h2>
+<p>Here are some time-lapse videos of the process of these type of illustrations.</p>
 <div class="video-container">
 <iframe width="960" height="580" src="https://www.youtube.com/embed/skR_n0EcZxM?rel=0&showinfo=0" frameborder="0" allowfullscreen class="youtube"></iframe>
 </div>

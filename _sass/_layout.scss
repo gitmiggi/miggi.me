@@ -1,5 +1,5 @@
 body {
-  font-family: 'Merriweather-Sans', 'Open Sans', 'Helvetica', sans;
+  font-family: 'Merriweather-Sans', 'Open Sans', 'Helvetica Neue', "Verdana" , sans;
   font-size: 16px;
   text-rendering: optimizeLegibility;
   background: #fafafa;
@@ -16,6 +16,41 @@ a, a:visited {
   color: #05c4ff
 }
 
+
+a.call-to-action{
+    display: inline-block;
+    line-height: 1;
+    border-radius: 4px;
+    background-color: rgb(0, 192, 250);
+    color: rgb(255, 255, 255);
+    position: relative;
+
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    font-family: Roboto,sans-serif;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0 2px rgba(161, 167, 170, 0.3);
+    font-size: 100%;
+    padding: .8em;
+    margin-bottom:2em;
+}
+
+a.call-to-action:hover{
+  background-color: lighten(#38d0ff,10%);
+  color:#fafafa;
+}
+
+a.call-to-action:active{
+  background-color: darken(#38d0ff,10%);
+  position: relative;
+  top:2px;
+}
 
 
 a:hover {
@@ -468,9 +503,21 @@ article.post-content{
 }
 
 .page-divider{
-  margin-top:8em;
+  margin-top:0em;
   margin-bottom:4em;
+  border-top:none;
 }
+
+@media(max-width: 480px){
+
+  .page-divider{
+    margin-bottom:2em;
+  }
+    
+
+}
+
+
 
 .post-list{
   padding-top:1em;
@@ -611,7 +658,7 @@ article.post-content{
   margin-top: 0;
   font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
   font-weight: 800;
-  font-size: 175%;
+  font-size: 250%;
   line-height: 1.2;
   margin-bottom: .25em;
   text-transform: uppercase;

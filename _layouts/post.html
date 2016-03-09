@@ -28,6 +28,8 @@ layout: default
 
 </div>
 <hr class="page-divider">
+<section style="text-align:center">
+<section>
   <nav class="post-list">
     {% for post in site.posts %}
     <div class="project-item" {% if post.accentcolor %} style="background-color:#{{ post.accentcolor }};"{% else %}style="background-color:#1DA9E2;" {% endif %}>
@@ -146,7 +148,7 @@ function changeLightboxImage() {
         onChangeParamOverride: function() {
             return {
                 fit: "max",
-                q:"90",
+                q:"70",
                 chromasub:"444",
                 fm:"pjpg"
 

@@ -36,7 +36,7 @@ accentcolor: d25235
 </figcaption>
 </figure>
 <h2>Changelog</h2>
-<p>I maintain a lot of the social media for imgix, including assets for the blog and weekly development changelog. Every week, we include a new image that goes out to promote the changelog on various social media outlets including Facebook, Twitter, Google Plus, Instagram, and our Slack Channel. The images also get used as the OG images for posts.</p>
+<p>I maintain a lot of the social media for imgix, including assets for the blog and weekly development changelog. Every week, we include a new image that goes out to promote the changelog on various social media outlets including Facebook, Twitter, Google Plus, Instagram, and our Slack Channel.</p>
 
 </section>
 
@@ -76,7 +76,6 @@ accentcolor: d25235
 	
 </section>
 
-{% include picture.html img="http://migimages.imgix.net/changelog/imgix-twitter3.png?fm=pjpg&fit=max&w=480&q=90&chromasub=444" alt="Blog Heading" %}
 
 <section class="thumblist">
 
@@ -95,5 +94,6 @@ accentcolor: d25235
 {% include thumb.html img="http://migimages.imgix.net/changelog/eventbrite_twitter_quote_final.png?fm=pjpg&chromasub=444&q=80&fit=fill&bg=fafafa" alt="Eventbrite Twitter Ad" %}
 
 
-
 </section>
+
+{% include picture.html img="http://migimages.imgix.net/changelog/imgix-twitter3.png?fm=pjpg&fit=max&w=480&q=90&chromasub=444" alt="Blog Heading" %}
