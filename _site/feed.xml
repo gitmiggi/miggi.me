@@ -5,23 +5,112 @@
     <description>Miguel Cardona is a Designer, Illustrator and Photographer living in San Francisco, CA. He currently is the Lead Designer at imgix.</description>
     <link>http://miguelcardona.com/</link>
     <atom:link href="http://miguelcardona.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Mar 2016 18:14:59 -0800</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2016 18:14:59 -0800</lastBuildDate>
+    <pubDate>Tue, 08 Mar 2016 11:42:13 -0800</pubDate>
+    <lastBuildDate>Tue, 08 Mar 2016 11:42:13 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>imgix Marketing Website &amp; Content Pages</title>
-        <description>&lt;section&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
+        <description>&lt;section class=&quot;thumblist&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&quot; alt=&quot;Enterprise Pricing&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Enterprise Pricing&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Homepage &quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Homepage &quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Homepage &quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Homepage &quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&amp;amp;q=75&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Homepage &quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Homepage &quot; data-src=&quot;http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&amp;amp;q=75&amp;amp;bg=fff&amp;amp;fit=fill&amp;amp;border=4,fff&amp;amp;rect=0,0.5,.999,.999&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
 &lt;/section&gt;
 
-&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&quot; alt=&quot;imgix Homepage&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&quot; alt=&quot;Referrals&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&amp;amp;q=75&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Referrals&quot; /&gt;
 &lt;/picture&gt;
 
 
@@ -51,154 +140,30 @@
 
 &lt;/figure&gt;
 
-&lt;section class=&quot;thumblist&quot;&gt;
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&quot; alt=&quot;Features Graphics&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,0,.999,.4625&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/calc.ai?fm=png&amp;amp;bg=1C2C38&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Features Graphics&quot; /&gt;
 &lt;/picture&gt;
+
 
 &lt;/figure&gt;
 
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&quot;&gt;
-
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&quot; alt=&quot;imgix Homepage&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.465,.999,.05&amp;amp;crop=top&amp;amp;usm=15&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;q=55 1x, https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=55 1x, https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;q=55 1x, https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=320&amp;amp;q=55 1x, https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&amp;amp;chromasub=444&amp;amp;dpr=2&amp;amp;fit=clamp&amp;amp;fm=png8&amp;amp;colorquant=100&amp;amp;h=320&amp;amp;pad=80&amp;amp;page=3&amp;amp;q=40&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
 &lt;/picture&gt;
+
 
 &lt;/figure&gt;
 
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&amp;amp;rect=0,.515,.999,.5&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/referral.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Datacenter &quot; data-src=&quot;https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&amp;amp;crop=top&amp;amp;usm=15&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Datacenter&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-&lt;/section&gt;
-
-&lt;section&gt;
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;/section&gt;
-
-&lt;section&gt;
-
-&lt;h2&gt;This is a Subhead&lt;/h2&gt;
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-
-&lt;p&gt;Sketchbooked started out as my productive procrastination / &quot;design-a-day&quot; illustration series of facebook and twitter friends&#39; profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.&lt;/p&gt;
-&lt;/section&gt;
 </description>
         <pubDate>Wed, 02 Mar 2016 01:00:00 -0800</pubDate>
         <link>http://miguelcardona.com/2016/03/02/imgix-marketing-site.html</link>
@@ -216,17 +181,15 @@
 &lt;p&gt;Sandbox was created as a way to troubleshoot the imgix URL API, and allow our sales and support teams to give out shareable breakdowns of images constructed using our service.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&quot; alt=&quot;imgix Sandbox Home&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&quot; alt=&quot;Sandbox in Devices&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=960&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=320&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Sandbox Home&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&amp;amp;fm=png8&amp;amp;bg=fafafa&amp;amp;h=240&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Sandbox in Devices&quot; /&gt;
 &lt;/picture&gt;
 
-
-&lt;figcaption&gt;Sandbox Home Screen URL input&lt;/figcaption&gt;
 
 &lt;/figure&gt;
 
@@ -254,16 +217,32 @@
 
 &lt;section class=&quot;thumblist&quot;&gt;
 
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Sandbox Phone &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
+	&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&quot; alt=&quot;imgix Sandbox Phone&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=320&amp;amp;q=55 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Sandbox Phone&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+	
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Sandbox Home &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
 
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Sandbox Phone&quot; /&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Sandbox Home&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;/figure&gt;
+
+
+
 
 
 &lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Sandbox Phone &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-hint.png?fm=pjpg&amp;amp;crop=entropy&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;rect=0,.08,.999,.998&quot;&gt;
@@ -276,6 +255,7 @@
 &lt;/picture&gt;
 
 &lt;/figure&gt;
+
 
 
 &lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Sandbox Phone &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-hinting.png?fm=pjpg&amp;amp;crop=top,left&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
@@ -302,17 +282,6 @@
 
 &lt;/figure&gt;
 
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Sandbox Phone &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix Sandbox Phone&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
 
 
 &lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix Sandbox Phone &quot; data-src=&quot;https://migimages.imgix.net/sandbox/sandbox-phone3.png?fm=png8&amp;amp;crop=top&amp;amp;q=80&amp;amp;chromasub=444&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
@@ -370,13 +339,13 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 &lt;p&gt;imgix Scale is a product currently in testing. It is a way to identify a website&#39;s page weight due to images, and gives insights on how to better optimize images using the imgix API.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&quot; alt=&quot;Home Page&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&quot; alt=&quot;imgix Scale Report&quot;&gt;
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/scale/scale3.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;Home Page&quot; /&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/scale/scale-screens.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Scale Report&quot; /&gt;
 &lt;/picture&gt;
 
 
@@ -408,42 +377,6 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 &lt;/figure&gt;
 
 
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/scale/scale4.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/scale/scale5.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
-
-&lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/scale/scale6.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;&quot; /&gt;
-&lt;/picture&gt;
-
-&lt;/figure&gt;
-
-
 &lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot; &quot; data-src=&quot;http://migimages.imgix.net/scale/scale7.png?fm=pjpg&amp;amp;bg=fff&amp;amp;crop=top&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
 
 &lt;picture&gt;
@@ -456,6 +389,18 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 &lt;/figure&gt;
 
 &lt;/section&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&quot; alt=&quot;imgix Scale Report&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/scale/scale_icons.ai?fm=png8&amp;amp;bg=fff&amp;amp;crop=middle&amp;amp;h=240&amp;amp;fit=crop&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Scale Report&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
 
 </description>
         <pubDate>Mon, 29 Feb 2016 01:00:00 -0800</pubDate>
@@ -477,6 +422,18 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 &lt;p&gt;Visor is a user interface for learning about how imgix image manipulations work on an image. The tool provides the user with a visual approach to working with the imgix API. Resizing, cropping, blurring as well as dozens of other imgix operations can be lived tested with visor. &lt;/p&gt;
 &lt;p&gt;Visor was a work in progress collaboration with one of the front-end engineers and I. It was an attempt to better relate the imgix product to designers. There were several incarnations including versions that existed in page, that had a number of intuitive interactions, and specialized use cases. Ultimately, the project was not kept up and supported after two years in favor of newer endevours such as imgix Sandbox.&lt;/p&gt;
 &lt;/section&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&quot; alt=&quot;imgix visor Comps&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor-test.ai?fm=png8&amp;amp;bg=1C232E&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix visor Comps&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
 
 &lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/visor/visor-screen1.png?fm=png8&amp;amp;bg=1C232E&quot; alt=&quot;imgix visor Comps&quot;&gt;
 &lt;picture&gt;
@@ -565,6 +522,45 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 
 &lt;/section&gt;
 
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix visor Comps &quot; data-src=&quot;http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor00002.png?fm=png8&amp;amp;pad=10&amp;amp;crop=left&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix visor Comps&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix visor Comps &quot; data-src=&quot;http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor00003.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix visor Comps&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;imgix visor Comps &quot; data-src=&quot;http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/visor/visor00004.png?fm=png8&amp;amp;pad=10&amp;amp;crop=right&amp;amp;bg=0B0D0F&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;imgix visor Comps&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+&lt;/section&gt;
+
 &lt;section&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 	&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/7e2x1XRVk4Q?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
@@ -594,10 +590,89 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
       </item>
     
       <item>
-        <title>imgix Dashboard Manager</title>
+        <title>imgix Customer Dashboard &amp; Analytics</title>
         <description>&lt;section&gt;
-&lt;p&gt;This is placeholder text&lt;/p&gt;
 &lt;/section&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/analytics_fb.jpg?fit=crop&amp;amp;fm=pjpg&amp;amp;page=1&amp;amp;q=85&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/dashboard-2.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.9999,.55&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/dashboard-1.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.85,.9999&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/dashboard-3.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/dashboard-4.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgix/dashboard-5.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;rect=0,0,.78,.9999&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&amp;amp;fm=pjpg&amp;amp;h=960&amp;amp;w=960&amp;amp;page=1&amp;amp;q=85&amp;amp;colorquant=20&amp;amp;fm=png8&amp;amp;dpr=2&amp;amp;pad=8&amp;amp;bg=fff&amp;amp;w=800&amp;amp;q=45&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 -0800</pubDate>
         <link>http://miguelcardona.com/product/design/2016/02/29/imgix-dashboard.html</link>
@@ -1129,13 +1204,13 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 &lt;section class=&quot;thumblist&quot;&gt;
 
 
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Unsplash Facebook Ad &quot; data-src=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Unsplash Facebook Ad &quot; data-src=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&quot;&gt;
 
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Unsplash Facebook Ad&quot; /&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Unsplash Facebook Ad&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;/figure&gt;
@@ -1143,26 +1218,26 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 
 
 
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Exposure Facebook Ad &quot; data-src=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Exposure Facebook Ad &quot; data-src=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&quot;&gt;
 
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Exposure Facebook Ad&quot; /&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Exposure Facebook Ad&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;/figure&gt;
 
 
 
-&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Eventbrite Facebook Ad &quot; data-src=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&quot;&gt;
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Eventbrite Facebook Ad &quot; data-src=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&quot;&gt;
 
 &lt;picture&gt;
-    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
-    &lt;img src=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;fit=fill&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Eventbrite Facebook Ad&quot; /&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;q=80&amp;amp;bg=fafafa&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Eventbrite Facebook Ad&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;/figure&gt;
@@ -1216,7 +1291,9 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
         <link>http://miguelcardona.com/2016/02/28/imgix-blog-changelog.html</link>
         <guid isPermaLink="true">http://miguelcardona.com/2016/02/28/imgix-blog-changelog.html</guid>
         
-        <category>design</category>
+        <category>design,</category>
+        
+        <category>photography</category>
         
         
       </item>
@@ -1264,10 +1341,14 @@ Sandbox is deeply integrated with the imgix documentation. We believe great docu
 
 &lt;/section&gt;
 
-&lt;section&gt;
-	&lt;div class=&quot;video-container&quot;&gt;
-		&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/HhfdxSh34gs?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+		&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/HX7tiCfPBHA?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+
+
 	&lt;/div&gt;
+
+&lt;section&gt;
+
 	&lt;h2&gt;Animated Prototype&lt;/h2&gt;
 	&lt;p&gt;The concept exchanges some current trends in technology for a more tangible, object based dialogue. The device will use cloud computing and
 wireless technology. However, it will favor privacy, be non-portable, and will have the properties of an heirloom object. The ability to easily upgrade the object will give it a degree of longevity. &lt;/p&gt;
@@ -1276,6 +1357,46 @@ wireless technology. However, it will favor privacy, be non-portable, and will h
 &lt;/section&gt;
 
 &lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisposters_001.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisposters_002.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/moonwalk/thesisposters_003.png?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&amp;amp;pad=20&amp;amp;bg=fff&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Thesis Show&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+
 
 &lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Thesis Show &quot; data-src=&quot;http://migimages.imgix.net/moonwalk/thesisshow-005.jpg?fm=pjpg&amp;amp;chromasub=444&amp;amp;crop=top&quot;&gt;
 
@@ -1370,6 +1491,12 @@ wireless technology. However, it will favor privacy, be non-portable, and will h
 &lt;section&gt;
 	&lt;h2&gt;Conclusion&lt;/h2&gt;
 	&lt;p&gt;My concept is still very much what I would consider a runway model, and is mostly a recommendation for what the narrative of a future device would look like. Materials and form may take more testing and revision to become an economically feasible and marketable product. I see the memory key concept as providing the greatest opportunity for maintaining a tangible form of content that is not restricted to storage or a format technology, that gives access to digital content, and pairs that access directly to screen media.&lt;/p&gt;
+	&lt;figure&gt;
+&lt;img src=&quot;http://migimages.imgix.net/moonwalk/moonwalk.gif&quot; /&gt;
+&lt;figcaption&gt;
+	Logo Animation
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 	&lt;p&gt;The interaction design still needs fine-tuning
 in order to present a refined experience that
 supports my objectives: pulling the most meaning
@@ -1377,12 +1504,7 @@ from content, making the outcomes of lifereview
 more apparent, and providing users ways
 to choose how they keep and compose their
 personal narratives. &lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&quot;http://migimages.imgix.net/moonwalk/moonwalk.gif&quot; /&gt;
-&lt;figcaption&gt;
-	Logo Animation
-&lt;/figcaption&gt;
-&lt;/figure&gt;
+
 &lt;/section&gt;
 
 </description>
@@ -1900,6 +2022,12 @@ personal narratives. &lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;960&quot; height=&quot;580&quot; src=&quot;https://www.youtube.com/embed/TIyuLl9cCVg?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/RwhPCH8cRCo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;youtube&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
 &lt;/section&gt;
 
 </description>
@@ -1913,10 +2041,111 @@ personal narratives. &lt;/p&gt;
       </item>
     
       <item>
-        <title>Josh Owen Design</title>
+        <title>Josh Owen, LLC</title>
         <description>&lt;section&gt;
-&lt;p&gt;Joshowen.com&lt;/p&gt;
+&lt;p&gt; Working closely with Josh Owen, I designed and developed a site that matched the internationally renowned designer&#39;s sense of minimalism and approach.&lt;br /&gt; Visit &lt;a href=&quot;http://joshowen.com&quot;&gt;joshowen.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+With a focus on responsive design, minimal ui, and a typographic style that matched his own aesthetic, we worked to craft an experience that focused on his work, style and process while still maintaing a foothold on modern web design techniques and standards.&lt;/p&gt;
 &lt;/section&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&quot; alt=&quot;imgix Homepage&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/josh-devices.png?fm=jpg&amp;amp;chromasub=444&amp;amp;bg=fafafa&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
+
+&lt;section class=&quot;thumblist&quot;&gt;
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Josh Owen &quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen3.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Josh Owen&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Josh Owen &quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen4.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Josh Owen&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Josh Owen &quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen1.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Josh Owen&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Josh Owen &quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen2.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Josh Owen&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Josh Owen &quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen5.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Josh Owen&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;imgix-lightbox-item imgix-thumb&quot; alt=&quot;Josh Owen &quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&quot;&gt;
+
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 640px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=320&amp;amp;h=320&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=220&amp;amp;h=220&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop 1x, http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=120&amp;amp;h=120&amp;amp;fit=crop&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen6.png?fm=pjpg&amp;amp;auto=format&amp;amp;w=240&amp;amp;h=240&amp;amp;fit=crop&amp;amp;q=45&quot; alt=&quot;Josh Owen&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;/figure&gt;
+
+
+&lt;/section&gt;
+&lt;figure class=&quot;imgix-lightbox-item&quot; data-src=&quot;http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&quot; alt=&quot;imgix Homepage&quot;&gt;
+&lt;picture&gt;
+    &lt;source media=&quot;(min-width: 1280px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=960&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=960&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 768px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=800&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=800&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(min-width: 480px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=640&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=640&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;source media=&quot;(max-width: 479px)&quot; srcset=&quot;http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=320&amp;amp;q=55 1x, http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=1200&amp;amp;dpr=2&amp;amp;q=45 2x&quot; /&gt;
+    &lt;img src=&quot;http://migimages.imgix.net/joshowen/joshowen.pdf?bg=101010&amp;amp;dpr=2&amp;amp;fit=crop&amp;amp;fm=png8&amp;amp;h=320&amp;amp;&amp;amp;w=1000&amp;amp;colorquant=10&amp;amp;w=800&amp;amp;q=45&quot; alt=&quot;imgix Homepage&quot; /&gt;
+&lt;/picture&gt;
+
+
+&lt;/figure&gt;
 </description>
         <pubDate>Fri, 12 Feb 2016 14:44:58 -0800</pubDate>
         <link>http://miguelcardona.com/2016/02/12/joshowen.html</link>

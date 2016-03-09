@@ -3,51 +3,37 @@ layout: post
 title:  "imgix Marketing Website & Content Pages"
 date:   2016-03-02 09:00:00
 tags: design
-headline: https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&chromasub=444&dpr=2&fit=clamp&fm=png8&colorquant=100&h=320&pad=80&page=3&q=40&bg=fafafa
+headline: http://migimages.imgix.net/imgix/imgix_marketing.png?fm=jpg&chromasub=444&bg=fafafa
 thumbnail: http://migimages.imgix.net/imgix/imgix.pdf?bg=fff&dpr=2&fit=crop&fm=png8&page=1&h=320&w=320&fm=png8&colorquant=50&pad=8&bg=fff
 thumbtitle: imgix Marketing Site
 thumbdesc: Design, Front End Development
 accentcolor: E95630
 ---
 
-<section>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
+<section class="thumblist">
+{% include picture.html img="http://migimages.imgix.net/imgix/imgix-pricing-devices.png?fm=jpg&chromasub=444&bg=fafafa" alt="Enterprise Pricing"%}
+
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&q=75" alt="imgix Homepage" %}
+
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&q=75" alt="imgix Homepage" %}
+
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&q=75" alt="imgix Homepage" %}
+
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&q=75" alt="imgix Homepage" %}
+
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen6.png?fm=pjpg&q=75&bg=fff&fit=fill" alt="imgix Homepage" %}
+
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&q=75&bg=fff&fit=fill&border=4,fff&rect=0,0.5,.999,.999" alt="imgix Homepage" %}
+
 </section>
 
-{% include picture.html img="http://migimages.imgix.net/imgix/homepage.png?fm=pjpg&q=75" alt="imgix Homepage" %}
+{% include picture.html img="http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&chromasub=444&bg=fafafa" alt="Referrals"%}
 
 {% include picture.html img="http://migimages.imgix.net/imgix/buildbig.ai?fm=png8" alt="Build Something Big Graphics" %}
 
-
 {% include picture.html img="http://migimages.imgix.net/imgix/feature_icons.ai?fm=png&bg=1C2C38" alt="Features Graphics" %}
 
+{% include picture.html img="http://migimages.imgix.net/imgix/calc.ai?fm=png&bg=1C2C38" alt="Features Graphics" %}
 
-<section class="thumblist">
-{% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,0,.999,.4625&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,.465,.999,.05&crop=top&usm=15&bg=fafafa&fit=fill" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/imgix_home.png?fm=pjpg&rect=0,.515,.999,.5&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/enterprise_top.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/pricing_page.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/referral.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/editor1.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/editor2.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/editor3.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/editor4.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-{% include thumb.html img="https://migimages.imgix.net/imgix/editor5.png?fm=pjpg&crop=top&usm=15" alt="imgix Datacenter" %}
-</section>
+{% include picture.html img="https://migimages.imgix.net/imgix/imgix.pdf?bg=0fff&chromasub=444&dpr=2&fit=clamp&fm=png8&colorquant=100&h=320&pad=80&page=3&q=40&bg=fafafa" alt="imgix Homepage"%}
 
-
-<section>
-<h2>This is a Subhead</h2>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-
-</section>
-
-
-<section>
-
-<h2>This is a Subhead</h2>
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-
-<p>Sketchbooked started out as my productive procrastination / "design-a-day" illustration series of facebook and twitter friends' profile photos, and posts. It is now more of a process book of my digital and analog portrait illustrations. The purpose of the site is to explore notions of social media, relationships, and engage with others using my art and design.</p>
-</section>

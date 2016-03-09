@@ -3,7 +3,7 @@ layout: post
 title:  "imgix Sandbox image editor & debugger"
 date:   2016-02-29 10:00:00
 tags: design
-headline: http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&fm=png8&bg=fafafa&h=240
+headline: http://migimages.imgix.net/sandbox/sandbox-devices.png?fm=jpg&chromasub=444&bg=fafafa
 thumbnail: http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=2&fm=png8&bg=F0DBBB&fit=clamp&w=320&h=320&dpr=2&colorquant=48&pad=8&border=8,fff
 thumbtitle: Sandbox
 thumbdesc: imgix Image Debugger 
@@ -15,7 +15,9 @@ accentcolor: efd2aa
 <p>Sandbox was created as a way to troubleshoot the imgix URL API, and allow our sales and support teams to give out shareable breakdowns of images constructed using our service.</p>
 </section>
 
-{% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&crop=top&q=80&chromasub=444" alt="imgix Sandbox Home" caption="Sandbox Home Screen URL input"%}
+{% include picture.html img="http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=1&fm=png8&bg=fafafa&h=240" alt="Sandbox in Devices"%}
+
+
 
 <section>
 	<h2>imgix Operation Breakdowns</h2>
@@ -30,12 +32,19 @@ accentcolor: efd2aa
 </section>
 
 <section class="thumblist">
-{% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&crop=top&q=80&chromasub=444&bg=fafafa&fit=fill&bg=fafafa" alt="imgix Sandbox Phone" %}
+
+	{% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&crop=top&q=80&chromasub=444&bg=fafafa&fit=fill&bg=fafafa" alt="imgix Sandbox Phone" %}
+
+	{% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="imgix Sandbox Home" caption="Sandbox Home Screen URL input"%}
+
+
+
 {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-hint.png?fm=pjpg&crop=entropy&q=80&chromasub=444&fit=fill&bg=fafafa&rect=0,.08,.999,.998" alt="imgix Sandbox Phone" %}
+
 {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-hinting.png?fm=pjpg&crop=top,left&q=80&chromasub=444&fit=fill&bg=fafafa" alt="imgix Sandbox Phone" %}
 
 {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-phone1.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="imgix Sandbox Phone" %}
-{% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-phone2.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="imgix Sandbox Phone" %}
+
 {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-phone3.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="imgix Sandbox Phone" %}
 
 </section>

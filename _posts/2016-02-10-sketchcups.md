@@ -7,6 +7,7 @@ thumbnail: http://migimages.imgix.net/cups/sketchsaturdays.jpg?dpr=2&fit=crop&fm
 thumbtitle: Coffee Cup Art
 thumbdesc: Viral Illustration Project
 accentcolor: b33630
+published: false
 ---
 
 <section>

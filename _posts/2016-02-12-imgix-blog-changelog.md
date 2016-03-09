@@ -2,10 +2,10 @@
 layout: post
 title:  "imgix Promotional & Social Media Creative"
 date:   2016-02-28 09:00:00
-tags: design
+tags: design, photography
 thumbnail: http://migimages.imgix.net/imgix/ix.png?dpr=2&fit=crop&h=320&w=320&fm=png8&pad=8&bg=fff&pad=8&bg=fff
 thumbtitle: imgix Promotional Creative
-thumbdesc: Product Design
+thumbdesc: Animation, Photo, Illustrative Design
 accentcolor: d25235
 ---
 
@@ -80,12 +80,12 @@ accentcolor: d25235
 
 <section class="thumblist">
 
-{% include thumb.html img="http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&chromasub=444&q=80&fit=fill&bg=fafafa" alt="Unsplash Facebook Ad" %}
+{% include thumb.html img="http://migimages.imgix.net/changelog/unsplash_fb_ad_final.png?fm=pjpg&chromasub=444&q=80&bg=fafafa" alt="Unsplash Facebook Ad" %}
 
 
-{% include thumb.html img="http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&chromasub=444&q=80&fit=fill&bg=fafafa" alt="Exposure Facebook Ad" %}
+{% include thumb.html img="http://migimages.imgix.net/changelog/exposure_fb_ad_001.png?fm=pjpg&chromasub=444&q=80&bg=fafafa" alt="Exposure Facebook Ad" %}
 
-{% include thumb.html img="http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&chromasub=444&q=80&fit=fill&bg=fafafa" alt="Eventbrite Facebook Ad" %}
+{% include thumb.html img="http://migimages.imgix.net/changelog/eventbrite_linkedin_ad.png?fm=pjpg&chromasub=444&q=80&bg=fafafa" alt="Eventbrite Facebook Ad" %}
 
 {% include thumb.html img="http://migimages.imgix.net/changelog/unsplash_twitter_ad_final.png?fm=pjpg&chromasub=444&q=80&fit=fill&bg=fafafa" alt="Unsplash Twitter Ad" %}
 

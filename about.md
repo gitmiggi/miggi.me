@@ -31,7 +31,7 @@ permalink: /about/
 <p>This site is hand coded using the <a href="https://jekyllrb.com/">Jekyll</a> framework and makes use of <a href="http://imgix.com">imgix</a> for on-the-fly image manipulation. I use a combination of imgix along with <a href="https://www.imgix.com/imgix-js">imgix.js</a>, <code>picture</code> element and its polyfill, <a href="https://scottjehl.github.io/picturefill/">picturefill</a>, for retina and responsive images.</p>
 
 <p>
-Feel free to drop me a <a href="mailt&#111;&#58;hel&#108;&#111;&#64;&#109;%&#54;9&#103;uelca%72don&#97;&#46;&#99;o%6&#68;">Drop me a line</a>.
+Feel free to <a href="mailt&#111;&#58;hel&#108;&#111;&#64;&#109;%&#54;9&#103;uelca%72don&#97;&#46;&#99;o%6&#68;">Drop me a line</a>.
 </p>
 
 

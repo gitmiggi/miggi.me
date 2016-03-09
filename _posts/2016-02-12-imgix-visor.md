@@ -15,6 +15,8 @@ accentcolor: 425362
 <p>Visor was a work in progress collaboration with one of the front-end engineers and I. It was an attempt to better relate the imgix product to designers. There were several incarnations including versions that existed in page, that had a number of intuitive interactions, and specialized use cases. Ultimately, the project was not kept up and supported after two years in favor of newer endevours such as imgix Sandbox.</p>
 </section>
 
+{% include picture.html img="http://migimages.imgix.net/visor/visor-test.ai?fm=png8&bg=1C232E" alt="imgix visor Comps" %}
+
 {% include picture.html img="http://migimages.imgix.net/visor/visor-screen1.png?fm=png8&bg=1C232E" alt="imgix visor Comps" %}
 
 {% include picture.html img="http://migimages.imgix.net/visor/visor-mini.png?fm=png8&pad=20&bg=1C232E" alt="imgix visor Comps" %}
@@ -27,6 +29,12 @@ accentcolor: 425362
 {% include thumb.html img="http://migimages.imgix.net/visor/visor1.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
 {% include thumb.html img="http://migimages.imgix.net/visor/visor2.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
 {% include thumb.html img="http://migimages.imgix.net/visor/visor3.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
+</section>
+
+<section class="thumblist">
+{% include thumb.html img="http://migimages.imgix.net/visor/visor00002.png?fm=png8&pad=10&crop=left&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include thumb.html img="http://migimages.imgix.net/visor/visor00003.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include thumb.html img="http://migimages.imgix.net/visor/visor00004.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
 </section>
 
 <section>

@@ -90,14 +90,12 @@ The images below show some of the research conducted with existing workspace sol
 <h3>Thank You Station</h3>
 <p>Tasked with the concept of creating a poster that provoked someone to act, I decided to make a poster / writing station that provoked people to write and send handwritten letters to those they cared for. I provided everything necessary to ease the friction in writing a hand written note, and would deliver all of the post each evening.</p>
 
-<div class="video-container">
-	<iframe width="960" height="580" src="https://www.youtube.com/embed/ZTUzqcgXIuA?rel=0&showinfo=0" frameborder="0" allowfullscreen class="youtube"></iframe>
-</div>
-
-
 </section>
 
 
+<div class="video-container">
+	<iframe width="960" height="580" src="https://www.youtube.com/embed/ZTUzqcgXIuA?rel=0&showinfo=0" frameborder="0" allowfullscreen class="youtube"></iframe>
+</div>
 
 <!-- <section>
 <h3>Graduate Study / Sanitation design for Rural Haiti. </h3>

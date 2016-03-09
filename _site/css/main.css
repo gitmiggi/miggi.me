@@ -3449,7 +3449,7 @@ blockquote:last-child {
 .imgix-lightbox {
   z-index: 10000; }
 
-.imgix-lightbox-item img {
+.imgix-thumb img {
   border: solid 2px #eee; }
 
 .imgix-lightbox-item.headline img {
