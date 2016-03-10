@@ -11,7 +11,7 @@ accentcolor: 92a5ba
 ---
 
 <section>
-<p>The following photosets were a collaboration between our Director of Production Operations and myself. There was a good story to tell about the level of design, engineering and customization that went into building the imgix datacenters needed to be documented properly. Both photosets are located at <a href="http://photos.imgix.com/" target="_blank">photos.imgix.com</a></p>
+<p>The following photosets were a collaboration between our Director of Production Operations and myself. The level of design, engineering and customization that went into building the imgix datacenters needed to be documented properly, we needed a way to distinguish ourselves from the competetion. Both photosets are located at <a href="http://photos.imgix.com/" target="_blank">photos.imgix.com</a></p>
 
 <h2>Newest imgix Datacenter</h2>
 <p>This was the first photoset I shot in our datacenter. I wanted to tell the story of our ability to rapidly deploy and scale our service, and the ways we uniquely and beautifully use a variety of hardware to run the imgix service.</p>

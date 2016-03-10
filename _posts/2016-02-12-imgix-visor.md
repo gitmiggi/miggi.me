@@ -33,45 +33,50 @@ accentcolor: 425362
 
 {% include picture.html img="http://migimages.imgix.net/visor/visor-interface.png?fm=png8&pad=20&bg=1C232E" alt="imgix visor Comps" %}
 
-<section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/visor/visor1.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include thumb.html img="http://migimages.imgix.net/visor/visor2.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include thumb.html img="http://migimages.imgix.net/visor/visor3.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
-</section>
+<!-- <section class="thumblist"> -->
+{% include picture.html img="http://migimages.imgix.net/visor/visor1.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor2.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor3.png?fm=png8&pad=10&bg=0B0D0F" alt="imgix visor Comps" %}
+<!-- </section> -->
 
 <section>
 <h2>In Page Editing</h2>
 <p>A version of the editor was ported as a chrome extension. It had additional controls that allowed the user to select images in the page. Subsequent versions allowed save back to the page itself.</p>
 </section>
 
-<section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/visor/visor00002.png?fm=png8&pad=10&crop=left&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include thumb.html img="http://migimages.imgix.net/visor/visor00003.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include thumb.html img="http://migimages.imgix.net/visor/visor00004.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
-</section>
+<!-- <section class="thumblist"> -->
+{% include picture.html img="http://migimages.imgix.net/visor/visor00002.png?fm=png8&pad=10&crop=left&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor00003.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor00004.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
+<!-- </section> -->
 
 <section>
-
 <h2>Resizing Demo</h2>
 <p>Demonstration of resizing capabilities.</p>
+</section>
+
 <div class="video-container">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/Hqcy5X9hY30?rel=0&showinfo=0" frameborder="0" allowfullscreen class="youtube"></iframe>
 </div>
 
+<section>
 <h2>Adding Watermark Demo</h2>
 <p>Demonstration of the imgix editor adding a vector watermark.</p>
+</section>
+
 <div class="video-container">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/7e2x1XRVk4Q?rel=0&showinfo=0" frameborder="0" allowfullscreen class="youtube"></iframe>
 </div>
 
+<section>
 <h2>Using Auto Features Demo</h2>
 <p>Demonstration of auto features.</p>
+</section>
+
 <div class="video-container">
 	<iframe width="1280" height="720" src="https://www.youtube.com/embed/v6OQmlvVlyM?rel=0&showinfo=0" frameborder="0" allowfullscreen class="youtube"></iframe>
 </div>
 
-
-</section>
 
 {% include picture.html img="http://migimages.imgix.net/visor/visor_thumbnail.ai?fm=png8&h=360&fit=fill&bg=fafafa" alt="imgix visor Comps" caption="interface details" %}
 

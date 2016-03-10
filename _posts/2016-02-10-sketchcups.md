@@ -24,23 +24,23 @@ accentcolor: b33630
 
 
 
-{% include picture.html img="http://migimages.imgix.net/cups/walterwhite.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include picture.html img="http://migimages.imgix.net/cups/stack.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/cups/walterwhite.jpg?fm=pjpg"  %}
+{% include picture.html img="http://migimages.imgix.net/cups/stack.jpg?fm=pjpg"  %}
 
-
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00001.JPG?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00002.JPG?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00003.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00004.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00005.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00006.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00007.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00008.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00009.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00010.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00011.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-{% include picture.html img="http://migimages.imgix.net/cups/sketchcups00012.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
-
+<section class="thumblist">
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00001.JPG?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00002.JPG?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00003.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00004.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00005.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00006.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00007.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00008.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00009.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00010.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00011.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+{% include thumb.html img="http://migimages.imgix.net/cups/sketchcups00012.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
+</section>
 
 {% include picture.html img="http://migimages.imgix.net/cups/sketchcups00013.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
 

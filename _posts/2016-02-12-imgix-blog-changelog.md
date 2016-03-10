@@ -96,4 +96,7 @@ accentcolor: d25235
 
 </section>
 
-{% include picture.html img="http://migimages.imgix.net/changelog/imgix-twitter3.png?fm=pjpg&fit=max&w=480&q=90&chromasub=444" alt="Blog Heading" %}
+{% include picture.html img="http://migimages.imgix.net/changelog/blog.png?fm=pjpg&fit=max&w=480&q=90&chromasub=444" alt="Blog Post & Heading" caption="Blog Post & Heading"%}
+
+
+{% include picture.html img="http://migimages.imgix.net/changelog/imgix-twitter3.png?fm=pjpg&fit=max" caption="Blog Post & Heading"%}

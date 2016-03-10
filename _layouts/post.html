@@ -7,7 +7,7 @@ layout: default
 	<article class="post-content" id="view"> 
 
   {% if page.headline %}
-    <figure class="imgix-lightbox-item headline" data-src="{{ page.headline }}" alt="{{ page.title }}">
+    <figure class="imgix-lightbox-item headline" data-src="{{ page.headline }}" alt="">
       <picture>
           <source media="(min-width: 1280px)" srcset="{{ page.headline }}&w=1200 1x, {{ page.headline }}&w=1200&dpr=2&q=45 2x">
           <source media="(min-width: 768px)" srcset="{{ page.headline }}&w=1000 1x, {{ page.headline }}&w=1000&dpr=2&q=45 2x">
