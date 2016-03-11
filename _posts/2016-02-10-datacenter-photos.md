@@ -19,18 +19,18 @@ accentcolor: 92a5ba
 
 {% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-014.jpg?fm=pjpg" alt="Newest imgix Datacenter" %}
 
-<section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&crop=left"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&crop=left"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&crop=left"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg"  %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg"  %}
+
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-010.jpg?fm=pjpg"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-011.jpg?fm=pjpg"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-012.jpg?fm=pjpg"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-013.jpg?fm=pjpg"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-017.jpg?fm=pjpg&crop=left"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-018.jpg?fm=pjpg&crop=left"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-019.jpg?fm=pjpg&crop=left"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-020.jpg?fm=pjpg"  %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-009.jpg?fm=pjpg"  %}
 {% include calltoaction.html text="View Photoset" link="http://photos.imgix.com/racking-mac-pros" title="Racking Mac Pros" %}
-</section>
+
 
 
 <section>
@@ -40,18 +40,18 @@ accentcolor: 92a5ba
 
 {% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-021.jpg?fm=pjpg" alt="Racking Mac Pros" %}
 
-<section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg" alt="Heeader Image" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg" alt="imgix Datacenter" %}
-{% include thumb.html img="http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&crop=left" alt="imgix Datacenter" %}
+
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fm=pjpg" alt="Heeader Image" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-003.jpg?fm=pjpg" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-004.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-005.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-006.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-007.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg" alt="imgix Datacenter" %}
+{% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&crop=left" alt="imgix Datacenter" %}
 {% include calltoaction.html text="View Photoset" link="hhttp://photos.imgix.com/building-a-graphics-card-for-the-internet" title="Racking Mac Pros" %}
-</section>
+
 
 
 

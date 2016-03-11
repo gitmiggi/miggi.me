@@ -29,22 +29,20 @@ accentcolor: efd2aa
 <p>We wanted to make sure that sandbox worked on phones and tablets with a fluid and responsive layout. Sandbox also has a number of hinting, and specialized features, such as additional windows for compositing multiple images with a live preview.</p>
 </section>
 
-<section class="thumblist">
 
 {% include picture.html img="https://migimages.imgix.net/sandbox/sandbox3.png?fm=pjpg&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa&border=2,eee" alt="Sandbox shows comparisons" caption="Sandbox displays quality comparisons" %}
 
 <!-- {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-home.png?fm=pjpg&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="imgix Sandbox Home" caption="Sandbox Home Screen URL input"%} -->
 
-{% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-hint.png?fm=pjpg&crop=entropy&q=80&chromasub=444&fit=fill&bg=fafafa&rect=0,.08,.999,.998" alt="Documentation tool tips" %}
+{% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-hint.png?fm=pjpg&crop=entropy&q=80&chromasub=444&fit=fill&bg=fafafa&border=2,eee&rect=0,.08,.999,.998" alt="Documentation tool tips" %}
 
-{% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-hinting.png?fm=pjpg&crop=top,left&q=80&chromasub=444&fit=fill&bg=fafafa" alt="Drop downs and param autofill" %}
+{% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-hinting.png?fm=pjpg&crop=top,left&q=80&chromasub=444&fit=fill&bg=fafafa&border=2,eee" alt="Drop downs and param autofill" %}
 
-<!-- {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-phone1.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="" %} -->
+<!-- {% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-phone1.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa&border=2,eee" alt="" %} -->
 
-<!-- {% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-phone3.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa" alt="" %} -->
+<!-- {% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-phone3.png?fm=png8&crop=top&q=80&chromasub=444&fit=fill&bg=fafafa&border=2,eee" alt="" %} -->
 
-{% include thumb.html img="https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&crop=top&q=80&chromasub=444&bg=fafafa&fit=fill&bg=fafafa" alt="Composite and blend live editing popups" %}
-</section>
+{% include picture.html img="https://migimages.imgix.net/sandbox/sandbox-window.png?fm=pjpg&crop=top&q=80&chromasub=444&bg=fafafa&border=2,eee&fit=fill&bg=fafafa" alt="Composite and blend live editing popups" %}
 
 
 <section>

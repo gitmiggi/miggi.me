@@ -34,22 +34,24 @@ accentcolor: E95630
 
 {% include picture.html img="http://migimages.imgix.net/imgix/referrals-screens.png?fm=jpg&chromasub=444&bg=0AAFE5&pad=40&border=12,fff" alt="Referrals" caption="Referral Page" %}
 
-<section class="thumblist">
-{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen3.png?fm=pjpg&q=75" alt="imgix Homepage API Showcase" %}
+{% include picture.html img="http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&q=75" alt="imgix Homepage API Showcase" %}
 
-{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen1.png?fm=pjpg&q=75" alt="imgix Homepage API Showcase" %}
+{% include picture.html img="http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&q=75" alt="imgix Homepage API Showcase" %}
 
-{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen5.png?fm=pjpg&q=75" alt="imgix Homepage API Showcase" %}
 
-{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&q=75" alt="Feature Links" %}
+
+<!-- <section class="thumblist">
+
+
+{% include picture.html img="http://migimages.imgix.net/imgix/imgix-screen2.png?fm=pjpg&q=75" alt="Feature Links" %}
 
 {% include thumb.html img="http://migimages.imgix.net/imgix/screensanddevices.png?fm=png8&bg=fff&fit=fill" alt="Features Graphics" caption="Pricing Graphics" %}
 
-<!-- {% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&q=75&bg=fff&fit=fill&border=4,fff&rect=0,0.5,.999,.999" alt="imgix Homepage" %} -->
+{% include thumb.html img="http://migimages.imgix.net/imgix/imgix-screen7.png?fm=pjpg&q=75&bg=fff&fit=fill&border=4,fff&rect=0,0.5,.999,.999" alt="imgix Homepage" %}
 
 {% include thumb.html img="http://migimages.imgix.net/imgix/calc.ai?fm=png8&crop=top&bg=1C2C38" alt="Pricing Calculator Graphics" %}
 
-</section>
+</section> -->
 
 {% include picture.html img="http://migimages.imgix.net/imgix/buildbig.ai?fm=png8" alt="Build Something Big Graphics" caption="Hiring Graphics" %}
 

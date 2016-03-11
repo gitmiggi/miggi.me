@@ -162,10 +162,57 @@
   </article>
 
 </div>
-<hr class="page-divider">
+<hr>
+
+<div class="page-nav" id="thumbnails">
+  
+    <a class="prev" href="/product/design/2016/02/29/imgix-visor.html">
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+     x="0px" y="0px" width="20px" height="44px" viewBox="0 0 20 44" style="enable-background:new 0 0 20 44;" xml:space="preserve">
+<polygon points="0,22 20,0 20,44 "/>
+</svg>
+<small>PREV</small>
+</a>
+  
+
+  <a href="#" class="folio-link">
+    <svg version="1.1"
+         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+         x="0px" y="0px" width="60px" height="44px" viewBox="0 0 60 44" style="enable-background:new 0 0 60 44;" xml:space="preserve">
+        <rect width="12" height="12"/>
+        <rect x="16" width="12" height="12"/>
+        <rect x="32" width="12" height="12"/>
+        <rect x="48" width="12" height="12"/>
+        <rect y="16" width="12" height="12"/>
+        <rect x="16" y="16" width="12" height="12"/>
+        <rect x="32" y="16" width="12" height="12"/>
+        <rect x="48" y="16" width="12" height="12"/>
+        <rect y="32" width="12" height="12"/>
+        <rect x="16" y="32" width="12" height="12"/>
+        <rect x="32" y="32" width="12" height="12"/>
+        <rect x="48" y="32" width="12" height="12"/>
+    </svg>
+
+  </a>
+
+
+  
+    <a class="next" href="/2016/02/28/datacenter-photos.html"><small>NEXT</small> 
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+     x="0px" y="0px" width="20px" height="44px" viewBox="0 0 20 44" style="enable-background:new 0 0 20 44;" xml:space="preserve">
+<defs>
+</defs>
+<polygon points="20,22 0,0 0,44 "/>
+</svg>
+</a>
+  
+</div>
+
 <section style="text-align:center">
 <section>
-  <nav class="post-list">
+  <nav class="post-list hidden" >
     
     <div class="project-item"  style="background-color:#E95630;">
       <a class="post-link" href="/2016/03/02/imgix-marketing-site.html">
@@ -247,14 +294,6 @@
             </a>
         </div>
     
-    <div class="project-item"  style="background-color:#eb4414;">
-      <a class="post-link" href="/2016/02/12/vignelli.html">
-        <img src="http://migimages.imgix.net/vignelli/vignelli-logo.pdf?dpr=2&fit=crop&fm=pjpg&h=320&w=320&colorquant=20&fm=png8&pad=8&bg=fff" align="center" style="border-color:#fff;" />
-            <h3>Vignelli Center<br><small>Website Design & Implementation</small></h3>
-            
-            </a>
-        </div>
-    
     <div class="project-item"  style="background-color:#b33630;">
       <a class="post-link" href="/2016/02/12/sketchcups.html">
         <img src="http://migimages.imgix.net/cups/sketchsaturdays.jpg?dpr=2&fit=crop&fm=pjpg&h=320&w=320&bri=5&con=5&chromasub=444&pad=8&bg=fff" align="center" style="border-color:#fff;" />
@@ -267,14 +306,6 @@
       <a class="post-link" href="/2016/02/12/industrial-design.html">
         <img src="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&dpr=2&fit=crop&h=320&w=320&fm=png8&colorquant=48&pad=8" align="center" style="border-color:#fff;" />
             <h3>Industrial Design<br><small>Misc Projects & Process</small></h3>
-            
-            </a>
-        </div>
-    
-    <div class="project-item"  style="background-color:#F4C784;">
-      <a class="post-link" href="/2016/02/12/archive.html">
-        <img src="http://migimages.imgix.net/archive/waiter2_960-1.jpg?dpr=2&fit=crop&fm=pjpg&h=320&w=320&fm=pjpg&bg=fff&pad=8&crop=left&usm=15" align="center" style="border-color:#fff;" />
-            <h3>Archived Work<br><small>Misc Design, Client Work</small></h3>
             
             </a>
         </div>
@@ -409,7 +440,11 @@ for (var i = 0; i < thumbs.length; i++) {
     thumbs[i].thumbID = i;
     thumbs[i].addEventListener('click', openItem);
 }
+
+
 </script>
+
+<hr>
 
       </div>
     </div>
@@ -434,6 +469,7 @@ window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.2.min.js"><
 <script type="text/javascript">
 
 var mainmenu = false;
+var thumbVisible = false;
 
 $(document).ready(function() {
 
@@ -441,6 +477,11 @@ $(document).ready(function() {
         e.preventDefault();
         openMenu();
     });
+    $('.folio-link').click(function(e) {
+        e.preventDefault();
+        thumbView();
+    });
+
 
     $(window).scroll(function() {
         if ($(document).scrollTop() > 20 && $("#miggi-menu-button").hasClass("belowfold") == false) {
@@ -449,10 +490,25 @@ $(document).ready(function() {
             $('#miggi-menu-button').removeClass('belowfold');
         }
     });
+
+
 });
 
 
-
+function thumbView() {
+    if (thumbVisible == true) {
+        $('.post-list').addClass('hidden');
+         $('.folio-link').removeClass('selected');
+        thumbVisible = (thumbVisible == false) ? true : false;
+    } else if (thumbVisible == false) {
+        $('.post-list').removeClass('hidden');
+        $('.folio-link').addClass('selected');
+        thumbVisible = (thumbVisible == false) ? true : false;
+    }
+     $('html,body').animate({
+        scrollTop: $("#thumbnails").offset().top
+    }, 300, 'swing');
+}
 
 
 function openMenu() {
@@ -471,6 +527,17 @@ function openMenu() {
         scrollTop: 0
     }, 300, 'swing');
 }
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11512957-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
 
   </body>

@@ -45,9 +45,9 @@ accentcolor: 425362
 </section>
 
 <!-- <section class="thumblist"> -->
-{% include picture.html img="http://migimages.imgix.net/visor/visor00002.png?fm=png8&pad=10&crop=left&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include picture.html img="http://migimages.imgix.net/visor/visor00003.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
-{% include picture.html img="http://migimages.imgix.net/visor/visor00004.png?fm=png8&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor00002.png?fm=pjpg&auto=format&pad=10&crop=left&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor00003.png?fm=pjpg&auto=format&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
+{% include picture.html img="http://migimages.imgix.net/visor/visor00004.png?fm=pjpg&auto=format&pad=10&crop=right&bg=0B0D0F" alt="imgix visor Comps" %}
 <!-- </section> -->
 
 <section>

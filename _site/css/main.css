@@ -3290,9 +3290,6 @@ article.post-content {
 @media (max-width: 480px) {
   .page-divider {
     margin-bottom: 2em; } }
-.post-list {
-  padding-top: 1em; }
-
 .project-item {
   border: solid 1px #eee;
   border-radius: 0px;
@@ -4260,6 +4257,71 @@ p.lightbox-caption {
 @keyframes loadinganimation {
   50% {
     background-color: #333; } }
+.post-list {
+  padding-top: 1em; }
+
+nav.post-list.hidden {
+  display: none; }
+
+.page-nav {
+  padding: 2em 0;
+  text-align: center; }
+  .page-nav a {
+    box-shadow: 0 2px rgba(161, 167, 170, 0.3);
+    background-color: #38d0ff;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 0;
+    color: #efefef;
+    padding: 12px;
+    border-radius: 4px;
+    transition: background-color .1s ease-out;
+    -webkit-transition: background-color .1s ease-out;
+    -moz-transition: background-color .1s ease-out;
+    -ms-transition: background-color .1s ease-out;
+    -o-transition: background-color .1s ease-out; }
+    .page-nav a svg {
+      fill: #fff;
+      height: 22px;
+      width: 10px; }
+    .page-nav a small {
+      margin: .5em;
+      font-size: 16px;
+      line-height: 1;
+      vertical-align: middle; }
+  .page-nav a:hover {
+    border-bottom: none;
+    background-color: #6BDCFF;
+    transition: background-color .1s ease-out;
+    -webkit-transition: background-color .1s ease-out;
+    -moz-transition: background-color .1s ease-out;
+    -ms-transition: background-color .1s ease-out;
+    -o-transition: background-color .1s ease-out; }
+    .page-nav a:hover small {
+      color: #fff; }
+    .page-nav a:hover svg {
+      fill: #fff; }
+  .page-nav a.selected {
+    background-color: #00a0d1; }
+    .page-nav a.selected svg {
+      fill: #fff; }
+  .page-nav a:active {
+    background-color: #05c4ff;
+    position: relative;
+    top: 2px; }
+  .page-nav svg {
+    vertical-align: middle; }
+
+a.folio-link {
+  background-color: #ddd;
+  margin: 0 2%;
+  display: inline-block;
+  padding: 12px; }
+  a.folio-link svg {
+    color: #fff;
+    width: 30px;
+    height: 22px; }
+
 /**
  * Syntax highlighting styles
  */

@@ -27,10 +27,57 @@ layout: default
   </article>
 
 </div>
-<hr class="page-divider">
+<hr>
+
+<div class="page-nav" id="thumbnails">
+  {% if page.next.url %}
+    <a class="prev" href="{{page.next.url}}">
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+     x="0px" y="0px" width="20px" height="44px" viewBox="0 0 20 44" style="enable-background:new 0 0 20 44;" xml:space="preserve">
+<polygon points="0,22 20,0 20,44 "/>
+</svg>
+<small>PREV</small>
+</a>
+  {% endif %}
+
+  <a href="#" class="folio-link">
+    <svg version="1.1"
+         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+         x="0px" y="0px" width="60px" height="44px" viewBox="0 0 60 44" style="enable-background:new 0 0 60 44;" xml:space="preserve">
+        <rect width="12" height="12"/>
+        <rect x="16" width="12" height="12"/>
+        <rect x="32" width="12" height="12"/>
+        <rect x="48" width="12" height="12"/>
+        <rect y="16" width="12" height="12"/>
+        <rect x="16" y="16" width="12" height="12"/>
+        <rect x="32" y="16" width="12" height="12"/>
+        <rect x="48" y="16" width="12" height="12"/>
+        <rect y="32" width="12" height="12"/>
+        <rect x="16" y="32" width="12" height="12"/>
+        <rect x="32" y="32" width="12" height="12"/>
+        <rect x="48" y="32" width="12" height="12"/>
+    </svg>
+
+  </a>
+
+
+  {% if page.previous.url %}
+    <a class="next" href="{{page.previous.url}}"><small>NEXT</small> 
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+     x="0px" y="0px" width="20px" height="44px" viewBox="0 0 20 44" style="enable-background:new 0 0 20 44;" xml:space="preserve">
+<defs>
+</defs>
+<polygon points="20,22 0,0 0,44 "/>
+</svg>
+</a>
+  {% endif %}
+</div>
+
 <section style="text-align:center">
 <section>
-  <nav class="post-list">
+  <nav class="post-list hidden" >
     {% for post in site.posts %}
     <div class="project-item" {% if post.accentcolor %} style="background-color:#{{ post.accentcolor }};"{% else %}style="background-color:#1DA9E2;" {% endif %}>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -171,4 +218,8 @@ for (var i = 0; i < thumbs.length; i++) {
     thumbs[i].thumbID = i;
     thumbs[i].addEventListener('click', openItem);
 }
+
+
 </script>
+
+<hr>
