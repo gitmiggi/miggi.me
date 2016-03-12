@@ -3,8 +3,8 @@ layout: post
 title:  "imgix Datacenter Photographic Essays"
 date:   2016-02-28 10:00:00
 tags: photography
-headline: http://migimages.imgix.net/datacenter/racking-mac-002.jpg?fm=pjpg&h=400&fit=crop&crop=entropy
-thumbnail: http://migimages.imgix.net/datacenter/racking-mac-001.jpg?dpr=2&fit=crop&fm=pjpg&h=320&w=320&auto=format&q=80&pad=8&bg=fff
+headline: http://migimages.imgix.net/datacenter/racking-mac-002.jpg?fm=pjpg&h=400&fit=crop&crop=entropy&auto=format
+thumbnail: http://migimages.imgix.net/datacenter/racking-mac-001.jpg?fit=crop&fm=pjpg&q=80&bg=fff&auto=format&chromasub=444
 thumbtitle: imgix Datacenter Stories
 thumbdesc: Photography, Marketing
 accentcolor: 92a5ba

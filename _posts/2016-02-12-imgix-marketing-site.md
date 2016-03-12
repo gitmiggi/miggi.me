@@ -4,7 +4,7 @@ title:  "imgix Homepage<br> & Marketing Site "
 date:   2016-03-02 09:00:00
 tags: design
 headline: http://migimages.imgix.net/imgix/imgix_marketing.png?fm=jpg&bg=fafafa&chromasub=444
-thumbnail: http://migimages.imgix.net/imgix/imgix.pdf?bg=fff&dpr=2&fit=crop&fm=png8&page=1&h=320&w=320&fm=png8&colorquant=50&pad=8&bg=fff
+thumbnail: http://migimages.imgix.net/imgix/imgix.pdf?fit=crop&fm=png8&page=1&colorquant=50
 thumbtitle: imgix Marketing Site
 thumbdesc: Visual Design, Front End Styling
 accentcolor: E95630

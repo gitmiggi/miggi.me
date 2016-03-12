@@ -4,7 +4,7 @@ title:  "Sketchbooked Illustrations"
 date:   2016-02-12 22:44:58
 tags: illustration
 headline: http://migimages.imgix.net/illustration/sketchbooked-000.jpg?fm=pjpg&chromasub=444&usm=12&h=320&fit=crop
-thumbnail: http://migimages.imgix.net/illustration/sketchbooked-035.png?fit=crop&fm=png8&h=320&page=1&q=85&w=320&colorquant=20&fm=png8&crop=faces&dpr=2&pad=8&bg=fff
+thumbnail: http://migimages.imgix.net/illustration/sketchbooked-035.png?fit=crop&fm=png8&page=1&colorquant=20&crop=faces
 thumbtitle: Sketchbooked Portraits
 thumbdesc: Design a Day Illustration Blog
 accentcolor: e8e4e4

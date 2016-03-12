@@ -4,7 +4,7 @@ title:  "Sketch Cups"
 date:   2016-02-12 09:00:00
 tags: illustration
 headline: http://migimages.imgix.net/cups/sketchcups00018.png?fm=pjpg&chromasub=444&fit=crop&crop=faces,entropy&rect=0,0,.9999,.97&q=45
-thumbnail: http://migimages.imgix.net/cups/sketchsaturdays.jpg?dpr=2&fit=crop&fm=pjpg&h=320&w=320&bri=5&con=5&chromasub=444&pad=8&bg=fff
+thumbnail: http://migimages.imgix.net/cups/sketchsaturdays.jpg?fit=crop&fm=pjpg&bri=5&con=5&chromasub=444
 thumbtitle: Coffee Cup Art
 thumbdesc: Viral Illustration Project
 accentcolor: b33630

@@ -4,7 +4,7 @@ title:  "imgix Sandbox,<br>Image Inspector"
 date:   2016-02-29 10:00:00
 tags: design
 headline: http://migimages.imgix.net/sandbox/sandbox-devices.png?fm=jpg&chromasub=444&bg=fafafa
-thumbnail: http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=2&fm=png8&bg=F0DBBB&fit=clamp&w=320&h=320&dpr=2&colorquant=48&pad=8&border=8,fff
+thumbnail: http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=2&fm=png8&bg=F0DBBB&fit=clamp&colorquant=48&pad=8
 thumbtitle: Imgix Sandbox
 thumbdesc: UX/UI Design, Front End Styling
 accentcolor: efd2aa

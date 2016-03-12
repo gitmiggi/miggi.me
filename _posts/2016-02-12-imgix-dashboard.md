@@ -5,7 +5,7 @@ date:   2016-02-29 08:00:00
 categories: product design
 tags: design
 headline: http://migimages.imgix.net/imgix/dashboard-screens.png?fm=jpg&chromasub=444&bg=fafafa
-thumbnail: http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&fm=pjpg&h=320&w=320&page=1&q=85&colorquant=20&fm=png8&dpr=2&pad=8&bg=fff
+thumbnail: http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=crop&page=1&colorquant=20&fm=png8
 thumbtitle: imgix Customer Dashboard
 thumbdesc: UX/UI Design, Style Guide
 accentcolor: 032A3B

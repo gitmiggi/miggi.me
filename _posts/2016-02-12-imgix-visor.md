@@ -5,7 +5,7 @@ date:   2016-02-29 08:00:00
 categories: product design
 tags: design
 headline: http://migimages.imgix.net/visor/visor_thumb_alt.ai?page=1&fm=png8&w=960&fit=clamp&h=320&pad=20&bg=1C232E
-thumbnail: http://migimages.imgix.net/visor/visor_thumb_alt.ai?fit=crop&fm=pjpg&h=320&page=1&q=85&w=320&colorquant=128&fm=png8&dpr=2&border=8,fff
+thumbnail: http://migimages.imgix.net/visor/visor_thumb_alt.ai?fit=crop&fm=png8&page=1&colorquant=128
 thumbtitle: imgix Visual Editor
 thumbdesc: UX/UI Design, Front End Styling
 accentcolor: 425362

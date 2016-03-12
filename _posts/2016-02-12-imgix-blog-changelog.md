@@ -3,7 +3,7 @@ layout: post
 title:  "imgix Promotional & Social Media Creative"
 date:   2016-02-28 09:00:00
 tags: design, photography
-thumbnail: http://migimages.imgix.net/imgix/ix.png?dpr=2&fit=crop&h=320&w=320&fm=png8&pad=8&bg=fff&pad=8&bg=fff
+thumbnail: http://migimages.imgix.net/imgix/ix.png?fit=crop&fm=pjpg&q=85&chromasub=444
 thumbtitle: imgix Promotional Creative
 thumbdesc: Animation, Photo, Illustrative Design
 accentcolor: d25235

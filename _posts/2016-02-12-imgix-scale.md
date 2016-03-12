@@ -5,7 +5,7 @@ date:   2016-02-29 09:00:00
 categories: product design
 tags: design
 headline: http://migimages.imgix.net/scale/scale-screens1.png?fm=jpg&chromasub=444&bg=fafafa
-thumbnail: http://migimages.imgix.net/performance/perftool_icon.ai?fit=crop&fm=pjpg&h=320&w=320&page=1&q=85&colorquant=128&fm=png8&dpr=2&bg=14C5F7&border=8,fff
+thumbnail: http://migimages.imgix.net/performance/perftool_icon.ai?fit=crop&page=1&colorquant=128&fm=png8&bg=14C5F7
 thumbtitle: imgix Scale 
 thumbdesc: UX/UI Design, Front End Styling
 accentcolor: 14c5f7
