@@ -49,10 +49,12 @@ function thumbView() {
         $('.post-list').addClass('hidden');
          $('.folio-link').removeClass('selected');
         thumbVisible = (thumbVisible == false) ? true : false;
+         
     } else if (thumbVisible == false) {
         $('.post-list').removeClass('hidden');
         $('.folio-link').addClass('selected');
         thumbVisible = (thumbVisible == false) ? true : false;
+         $('.preview', '.folio-link').css("display", "none");
     }
      $('html,body').animate({
         scrollTop: $("#thumbnails").offset().top

@@ -8,8 +8,8 @@
   <title>imgix Datacenter Photographic Essays</title>
   <meta name="description" content="The following photosets were a collaboration between our Director of Production Operations and myself. The level of design, engineering and customization tha...">
   
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,800|Merriweather:400&amp;text=DESIGNER&ILLUSTRATOR" rel="stylesheet" type="text/css"> 
-    <link href="http://fonts.googleapis.com/css?family=Merriweather:300" rel="stylesheet" type="text/css"> 
+  <link href="http://fonts.googleapis.com/css?family=Merriweather:400&amp;text=DESIGNER&ILLUSTRATOR" rel="stylesheet" type="text/css"> 
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,800|Merriweather:300" rel="stylesheet" type="text/css"> 
    <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://miguelcardona.com/2016/02/28/datacenter-photos.html">
   <link rel="alternate" type="application/rss+xml" title="Miguel Cardona | Designer & Illustrator" href="http://miguelcardona.com/feed.xml" />
@@ -574,9 +574,9 @@
 
 <picture>
 
-    <source media="(min-width: 480px)" srcset="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&pad=8&border=8,fff&w=320&h=320&fit=crop 1x, http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&pad=8&border=8,fff&w=300&h=300&fit=crop&dpr=2&q=45 2x">
-    <source media="(max-width: 479px)" srcset="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&pad=8&border=8,fff&w=240&h=240&fit=crop 1x, http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&pad=8&border=8,fff&w=240&h=240&fit=crop&dpr=2&q=45 2x">
-    <img  src="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&pad=8&border=8,fff&w=320&h=320&fit=crop&q=45"  alt="Misc Projects & Process" >
+    <source media="(min-width: 480px)" srcset="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&border=8,fff&w=320&h=320&fit=crop 1x, http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&border=8,fff&w=300&h=300&fit=crop&dpr=2&q=45 2x">
+    <source media="(max-width: 479px)" srcset="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&border=8,fff&w=240&h=240&fit=crop 1x, http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&border=8,fff&w=240&h=240&fit=crop&dpr=2&q=45 2x">
+    <img  src="http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colorquant=48&border=8,fff&w=320&h=320&fit=crop&q=45"  alt="Misc Projects & Process" >
 </picture>
 
 
@@ -776,10 +776,12 @@ function thumbView() {
         $('.post-list').addClass('hidden');
          $('.folio-link').removeClass('selected');
         thumbVisible = (thumbVisible == false) ? true : false;
+         
     } else if (thumbVisible == false) {
         $('.post-list').removeClass('hidden');
         $('.folio-link').addClass('selected');
         thumbVisible = (thumbVisible == false) ? true : false;
+         $('.preview', '.folio-link').css("display", "none");
     }
      $('html,body').animate({
         scrollTop: $("#thumbnails").offset().top

@@ -524,11 +524,6 @@ article.post-content{
 
 }
 
-
-
-
-
-
 .project-item{
   border: solid 1px #eee;
   border-radius: 0px;
@@ -634,7 +629,7 @@ article.post-content{
 
 @media (max-width:960px){
   .project-item{
-    width:33.333333333333%;
+    width:30.333333333333%;
        width: -webkit-calc(33.333333333333% - 16px);
     width: -moz-calc(33.333333333333% - 16px);
     width: calc(33.333333333333% - 16px);
