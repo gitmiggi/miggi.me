@@ -1,5 +1,7 @@
+
+
 body {
-  font-family: 'Merriweather Sans', 'Open Sans', 'Helvetica Neue', "Verdana" , sans;
+  font-family: 'Open Sans', 'Helvetica Neue', "Verdana" , sans;
   font-size: 16px;
   text-rendering: optimizeLegibility;
   background: #fafafa;
@@ -28,7 +30,6 @@ a.call-to-action{
     box-sizing: border-box;
     border: 1px solid rgba(0, 0, 0, 0);
     border-radius: 4px;
-    font-family: Roboto,sans-serif;
     line-height: 1;
     color: rgb(255, 255, 255);
     vertical-align: middle;
@@ -65,6 +66,10 @@ header {
   font-size: 24px
 }
 
+header .logo a .name {
+  font-size: 105%;
+}
+
 
 @media (min-width: 768px) {
   header {
@@ -81,8 +86,8 @@ header {
 
 header .logo a {
   color: #555;
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
-  font-weight: 800;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-weight: 700;
   text-transform: uppercase;
   font-size: 100%;
   line-height: 1;
@@ -90,7 +95,7 @@ header .logo a {
 
 header .logo a .title {
  font-family: 'Merriweather', 'Georgia', sans;
-  font-weight: 400; font-weight: 400;
+  font-weight: 400; 
   color:#555;
 }
 
@@ -137,8 +142,8 @@ header .navbar-nav a {
   text-decoration: none;
   color: #9a9a9a;
   font-size: 120%;
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
-  font-weight: 800;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-weight: 700;
   font-weight: 400;
   margin-right: 1em
 }
@@ -224,8 +229,8 @@ header .navbar-nav a:last-child {
   display: block;
   width: 100%;
   padding: .75em .75em;
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
-  font-weight: 800;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-weight: 700;
   font-size: 80%;
   line-height: 1.4;
   border-radius: 0 0 2px 2px;
@@ -254,7 +259,7 @@ header .navbar-nav a:last-child {
 }
 
 footer {
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   max-width: 768px;
   padding: 2em;
   text-align: left;
@@ -467,7 +472,7 @@ article.post-content{
     section{
      max-width:480px;
      margin:0 auto;
-     p{
+     p {
       font-size: 100%;
      }
     }
@@ -476,7 +481,7 @@ article.post-content{
     section{
      max-width:320px;
      margin:0 auto;
-     p{
+     p {
       font-size: 100%;
      }
     }
@@ -496,7 +501,7 @@ article.post-content{
       padding: 1em 0 0 1em;
       text-align: center;
       color:#999;
-      font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
+      font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
 
     }
   }
@@ -572,7 +577,7 @@ article.post-content{
     text-align: center;
     font-size: .85em;
     line-height: 1.35;
-    font-weight: 600;
+    font-weight: 700;
     text-transform: uppercase;
     background-color:#fff;
     color:#555;
@@ -655,23 +660,23 @@ article.post-content{
 
  h1 {
   margin-top: 0;
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   font-weight: 800;
   font-size: 250%;
   line-height: 1.2;
-  margin-bottom: .25em;
+  margin-bottom: .1em;
   text-transform: uppercase;
   text-align: left;
   color:#4a4a4a ;
 }
 
  h2 {
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
-  font-weight: 800;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-weight: 700;
   font-size: 150%;
   line-height: 1.2;
-  margin-top: 1em;
-  margin-bottom: .25em;
+  margin-top: 1.5em;
+  margin-bottom: .75em;
   color:#4a4a4a;
 }
 
@@ -679,8 +684,8 @@ article.post-content{
  h4,
  h5,
  h6 {
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
-  font-weight: 800;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-weight: 700;
   font-size: 240%;
   line-height: 1.2;
   margin-bottom: .5em;
@@ -694,18 +699,18 @@ h6{
 }
 
  p {
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
-  
-  font-size: 120%;
-  line-height: 1.5;
+  font-family: 'Merriweather','Open Sans', Georgia,serif;
+  font-size: 125%;
+  line-height: 1.575;
   margin-bottom: 1.5em;
-  font-weight: 400;
+  font-weight: 300;
   color: #6a6a6a;
+  max-width: 36em;
   
 }
 
  blockquote {
-  font-family: 'Merriweather Sans','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
+  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   font-style: oblique;
   font-size: 200%;
   color: #4a4a4a;
@@ -715,7 +720,7 @@ h6{
 
  blockquote .author {
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   padding-top: .5em;
   display: inline-block
 }
@@ -1172,7 +1177,8 @@ section.cv h4 {
 }
 
 section.cv p {
-  font-size: 100%
+  font-size: 100%;
+   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
 }
 
 .cv_area0,
@@ -1233,14 +1239,15 @@ section.cv p {
   width: 75%;
   float: left;
   margin-bottom: .5em;
-  padding-right: 2em
+  padding-right: 2em;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
 }
 
 .cv_area1 section.cv ul {
   width: 25%;
   float: right;
   margin-top: 0;
-  font-family: 'Merriweather Sans', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   margin-bottom: 0
 }
 
@@ -1258,7 +1265,8 @@ section.cv p {
   .cv_area1 section.cv h4,
   .cv_area1 section.cv p {
     width: 100%;
-    float: none
+    float: none;
+      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   }
   .cv_area1 section.cv ul {
     width: 100%;
@@ -1290,7 +1298,7 @@ section.cv p {
 
 .cv-date {
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 700;
   display: block;
   margin-bottom: 1em;
 
@@ -1688,7 +1696,7 @@ nav.post-list.hidden{
     display: inline-block;
     vertical-align: middle;
     line-height: 0;
-    color:#efefef;
+    color:#fff;
     padding:12px;
     border-radius: 4px;
     transition: background-color .1s ease-out;
