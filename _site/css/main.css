@@ -3272,7 +3272,7 @@ article.post-content {
         font-size: 100%; } }
   article.post-content figure {
     max-width: 1280px;
-    margin: 0 auto 4em auto;
+    margin: 0 auto 2em auto;
     text-align: center; }
     article.post-content figure img {
       display: inline-block; }

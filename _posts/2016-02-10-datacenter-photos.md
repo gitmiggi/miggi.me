@@ -50,7 +50,7 @@ accentcolor: 92a5ba
 {% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-008.jpg?fm=pjpg" alt="imgix Datacenter" %}
 {% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-022.jpg?fm=pjpg" alt="imgix Datacenter" %}
 {% include picture.html img="http://migimages.imgix.net/datacenter/racking-mac-016.jpg?fm=pjpg&crop=left" alt="imgix Datacenter" %}
-{% include calltoaction.html text="View Photoset" link="hhttp://photos.imgix.com/building-a-graphics-card-for-the-internet" title="Racking Mac Pros" %}
+{% include calltoaction.html text="View Photoset" link="http://photos.imgix.com/building-a-graphics-card-for-the-internet" title="Racking Mac Pros" %}
 
 
 

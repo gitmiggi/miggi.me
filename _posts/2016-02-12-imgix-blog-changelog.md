@@ -10,7 +10,7 @@ accentcolor: d25235
 ---
 
 <section>
-<p>This showcase is a serious of various design elements, and collateral produced for imgix from 2013-2016. These include animations, promotions, blog designs, illustrations, and photography. </p>
+<p>This showcase is a series of various design elements, and collateral produced for imgix from 2013-2016. These include animations, promotions, blog designs, illustrations, and photography. </p>
 <figure>
 <img src="http://migimages.imgix.net/gif/ixani.gif">
 <figcaption>
