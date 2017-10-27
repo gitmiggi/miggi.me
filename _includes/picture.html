@@ -1,9 +1,9 @@
 <figure class="imgix-lightbox-item" data-src="{{ include.img }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}>
 <picture>
-    <source media="(min-width: 1280px)" srcset="{{ include.img }}&w=768&q=65 1x, {{ include.img }}&w=768&dpr=2&q=45 2x">
-    <source media="(min-width: 768px)" srcset="{{ include.img }}&w=640&q=55 1x, {{ include.img }}&w=640&dpr=2&q=45 2x">
-    <source media="(min-width: 480px)" srcset="{{ include.img }}&w=520&q=75 1x, {{ include.img }}&w=520&dpr=2&q=45 2x">
-    <source media="(max-width: 479px)" srcset="{{ include.img }}&w=320&q=80 1x, {{ include.img }}&w=320&dpr=2&q=45 2x">
+    <source media="(min-width: 1280px)" srcset="{{ include.img }}&w=768&q=65 1x, {{ include.img }}&w=768&dpr=2&q=30 2x">
+    <source media="(min-width: 768px)" srcset="{{ include.img }}&w=640&q=55 1x, {{ include.img }}&w=640&dpr=2&q=30 2x">
+    <source media="(min-width: 480px)" srcset="{{ include.img }}&w=520&q=75 1x, {{ include.img }}&w=520&dpr=2&q=30 2x">
+    <source media="(max-width: 479px)" srcset="{{ include.img }}&w=320&q=80 1x, {{ include.img }}&w=320&dpr=2&q=30 2x">
     <img src="{{ include.img }}&w=640&q=80" {% if include.alt %} alt="{{ include.alt }}" {% endif %}>
 </picture>
 

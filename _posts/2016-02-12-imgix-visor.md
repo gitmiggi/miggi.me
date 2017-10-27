@@ -9,10 +9,12 @@ thumbnail: http://migimages.imgix.net/visor/visor_thumb_alt.ai?fit=crop&fm=png8&
 thumbtitle: imgix Visual Editor
 thumbdesc: UX/UI Design, Front End Styling
 accentcolor: 425362
+published: false
 ---
 
 <section>
 <p> Our web based image editor was a user interface for learning about how imgix image manipulations work on an image. The tool provides the user with a visual approach to working with the imgix API. Resizing, cropping, blurring, as well as dozens of other imgix operations can be lived tested with visor. </p>
+<p>Finalized UI designs for the imgix editing tools have been included in a filing for a <a href="http://patents.justia.com/inventor/miguel-a-cardona-jr" target="_blank">patent</a>.</p>
 </section>
 
 {% include picture.html img="http://migimages.imgix.net/visor/visor-screen1.png?fm=png8&bg=1C232E" alt="imgix visor Comps" %}

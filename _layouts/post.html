@@ -202,10 +202,11 @@ function changeLightboxImage() {
         onChangeParamOverride: function() {
             return {
                 fit: "max",
-                q:"70",
+                q:"20",
+                dpr:"2",
                 chromasub:"444",
-                fm:"pjpg"
-
+                fm:"pjpg",
+                format:"auto"
             }
         },
         onLoad: function(el) {

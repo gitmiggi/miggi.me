@@ -4,11 +4,8 @@ title: Curriculum Vitae
 permalink: /resume/
 ---
 
-<!-- <article class="post-content" id="cvnav">
-<section>
-    <h1>C.V.</h1>
-</section>
-</article> -->
+<!--
+{% include calltoaction.html text="Download PDF (Outdated)" link="http://portfolio.miguelcardona.com/pdf/miguelcardona-resume.pdf" title="Download Resume" %} -->
 
 <div class="container-fluid" id="start">
     <section >
@@ -20,24 +17,34 @@ permalink: /resume/
             <a class="cvbtn0" href="#cvnav">Personal Statement</a>
             <a class="cvbtn1 selected" href="#cvnav">Experience</a>
             <a class="cvbtn2" href="#cvnav">Education</a>
-            <a class="cvbtn3" href="#cvnav">Honors / Press</a>
+            <a class="cvbtn3" href="#cvnav">Talks / Press / Honors</a>
         </nav>
         <div class="cv_area0 hidden">
             <section class="cv">
                 <h3>Personal Statement</h3>
-                <p>I produce a focused and diversified approach to user driven product design with over 16 years of experience designing and developing internet driven marketing and products, including 8 years instructing at the University level. </p>
+                <p>I produce a focused and diversified approach to user driven product design with over 16 years of experience designing and developing internet driven marketing and products, including 10 years instructing at the University level. </p>
                 <p>I continue to adapt my methods and practices in an ever changing landscape of standards and technology by addressing the design discipline as a problem solver in the roles of educator, developer, entrepreneur, and consultant.</p>
             </section>
         </div>
         <!-- Experience -->
         <div class="cv_area1">
             <section class="cv">
+                <h3>Visiting Professor / New Media Design</h3>
+                <h4>School of Design, Rochester Institute of Technology</h4>
+                <p>Full-time professor in the School of Design. Instructed user interaction and user experience classes in the New Media Design and Visual Communications Programs at RIT. Also serving as a liason for the Digital Humanities program within the College of Liberal Arts.</p>
+                <ul>
+                    <li>Rochester, NY</li>
+                    <li>SEP 2016 &ndash; Present</li>
+                    <li><a href="http://cias.rit.edu" target="_blank">http://cias.rit.edu</a></li>
+                </ul>
+            </section>
+            <section class="cv">
                 <h3>Lead Designer</h3>
                 <h4>imgix</h4>
                 <p>Lead Designer in charge of product, branding and visual design of Y Combinator startup, imgix, in San Francisco, CA. imgix solves modern problems associated with images in web and app development, provides innovative ways to process imagery on the web, and aspires to be the "graphics card" for the internet.</p>
                 <ul>
                     <li>San Francisco, CA</li>
-                    <li>JUN 2013 &ndash; Present</li>
+                    <li>JUN 2013 &ndash; AUG 2017</li>
                     <li><a href="http://www.imgix.com" target="_blank">http://www.imgix.com</a></li>
                 </ul>
             </section>
@@ -48,11 +55,11 @@ permalink: /resume/
                 <ul>
                     <li>San Francisco, CA</li>
                     <li>APR 2015 &ndash; DEC 2016</li>
-                    <li><a href="http://www.imgix.com" target="_blank">http://www.bloc.io</a></li>
+                    <li><a href="http://www.bloc.io" target="_blank">http://www.bloc.io</a></li>
                 </ul>
             </section>
             <section class="cv">
-                <h3>Visiting Professor of Design</h3>
+                <h3>Visiting Professor / Graphic Design</h3>
                 <h4>School of Design, Rochester Institute of Technology</h4>
                 <p>Full-time professor in the School of Design. Instructed interactive media, front end web design, and time based animation classes in both the New Media Design and Graphic Design Programs at RIT. Served on the Vignelli Center for Design Studies Board and was responsible for designing and developing their web properties.</p>
                 <ul>
@@ -168,10 +175,30 @@ permalink: /resume/
         </div>
         <div class="cv_area3 hidden">
             <!-- <h1 class="cv">Honors</h1> -->
+              <section class="cv">
+                        <h3>Speaking Engagements and Gallery Showings</h3>
+                            <p><a href="hhttps://mag.rochester.edu/events/hidden-passions-season-2/">Memorial Art Gallery</a>, Speaker. "Hidden Passions" <span class="cv-date">NOV 2017</span></p>
+                            <p><a href="http://fitc.ca/speaker/miguel-cardona/">FITC</a> Speaker. "Motion Design for Impact and Performance: Animated GIFs" <span class="cv-date">OCT 2016</span></p>
+                             <p><a href="http://thoughtatwork.cias.rit.edu/">Thought at Work</a> Speaker. Motion Design for Impact and Performance: Animated GIFs <span class="cv-date">OCT 2017</span></p>
+                            <p><a href="http://thoughtatwork.cias.rit.edu/">Thought at Work</a> Speaker. "Whiteboard Interviews for Designers" <span class="cv-date">OCT 2016</span></p>
+                            <p><a href="http://thoughtatwork.cias.rit.edu/">Thought at Work</a> Speaker. "Designing Performance" <span class="cv-date">OCT 2015</span></p>
+                            <p><a href="https://www.sketchtuesdays.com/">Sketch Tuesdays</a> Featured Artist <span class="cv-date">MAY/JULY/OCT 2015</span></p>
+                            <p><a href="http://thoughtatwork.cias.rit.edu/">Thought at Work</a> Speaker. "Color Hacks" <span class="cv-date">OCT 2013, OCT 2014</span></p>
+                            <p>2013 MFA Thesis Gallery Show. Bevier Gallery <span class="cv-date">MAR 2013</span></p>
+                <p>Refresh Rochester, Speaker 'Designing for Retinas' <span class="cv-date">FEB 2013</span></p>
+                <p>GIRLS vs. BOYS Invitational Art Show. 1975 Gallery <span class="cv-date">FEB 2013</span></p>
+                <p>Art of Procrastination: Solo Art Show. Boulder Coffee Co. <span class="cv-date">FEB 2013</span></p>
+                <p>Coffee Cup Art. Café Sophie & Precita Park, San Francisco. <span class="cv-date">AUG 2012</span></p>
+                <p><a href="http://thoughtatwork.cias.rit.edu/">Thought at Work</a> Design Conference, Speaker. RIT <span class="cv-date">OCT 2012</span> </p>
+                <p>Lecture: 'Social Media &amp; You!'. Webb Auditorium, RIT <span class="cv-date">APR 2012</span></p>
+                <p>'Sketchbooked' Solo Gallery Show. Pistachio Press <span class="cv-date">MAR 2012</span></p>
+                <p>Interactive Collaborative Piece, <a target="_blank" href="http://www.bornmagazine.org/projects/technology/proj.html">"Technology"</a>. Born Magazine <span class="cv-date">JUN 2005</span></p>
+            </section>
             <section class="cv">
                 <h3>Press / Featured / Articles  </h3>
                             <p><a target="_blank" href="http://hackermonthly.com/">Hacker Monthly (Print)</a> Cover Story "Racking Mac Pros"<span class="cv-date"> JULY 2015</span></p>
                             <p><a target="_blank" href="https://www.yahoo.com/tech/s/custom-rack-allows-imgix-fill-150425984.html">Yahoo News</a> "Racking Mac Pros" Photoset <span class="cv-date">MAY 2015</span></p>
+                            <p><a target="_blank" href="http://allielarkinwrites.com/3ws-miguel-angel-cardona-jr/">Allie Larkin Writes</a> 3Ws – Miguel Angel Cardona, Jr. <span class="cv-date">DEC 2014</span></p>
                             <p><a target="_blank" href="https://www.youtube.com/watch?v=_S2s-XfDvx8">Good Day Sacramento</a> "Cup Sketch Artsit"<span class="cv-date"> FEB 2014</span></p>
                             <p><a target="_blank" href="http://blog.dribbble.com/post/74743861611/weekly-replay">Dribbble Blog</a> "Weekly Replay" <span class="cv-date">JAN 2014</span></p>
                             <p><a target="_blank" href="http://www.today.com/food/meet-guy-who-makes-intricate-coffee-cup-art-good-cause-2D11988972">Today Show</a> "Coffee Cups for a Cause" <span class="cv-date">JAN 2014</span></p>
@@ -181,21 +208,6 @@ permalink: /resume/
                             <p><a target="_blank" href="http://www.ign.com/blogs/vdot90/2012/08/04/miguel-cardona-and-on-talent-creativity">IGN Blogs</a> "Miguel Cardona: On Talent & Creativity" <span class="cv-date">AUG 2012</span></p>
                             <p><a target="_blank" href="http://designinstruct.com/drawing-illustration/make-watercolor-and-marker-style-portraits-with-illustrator/">Design Instruct</a> "Illustrator Tutorial, Author" <span class="cv-date">AUG 2012</span></p>
                     </section>
-                    <section class="cv">
-                        <h3>Speaking Engagements and Gallery Showings</h3>
-                            <p>Thought at Work Speaker. "Designing Performance" <span class="cv-date">OCT 2015</span></p>
-                            <p>Sketch Tuesdays Featured Artist <span class="cv-date">MAY/JULY/OCT 2015</span></p>
-                            <p>Thought at Work Speaker. "Color Hacks" <span class="cv-date">OCT 2013, OCT 2014</span></p>
-                            <p>2013 MFA Thesis Gallery Show. Bevier Gallery <span class="cv-date">MAR 2013</span></p>
-                <p>Refresh Rochester, Speaker 'Designing for Retinas' <span class="cv-date">FEB 2013</span></p>
-                <p>GIRLS vs. BOYS Invitational Art Show. 1975 Gallery <span class="cv-date">FEB 2013</span></p>
-                <p>Art of Procrastination: Solo Art Show. Boulder Coffee Co. <span class="cv-date">FEB 2013</span></p>
-                <p>Coffee Cup Art. Café Sophie & Precita Park, San Francisco. <span class="cv-date">AUG 2012</span></p>
-                <p>Thought @ Work Design Conference, Speaker. RIT <span class="cv-date">OCT 2012</span> </p>
-                <p>Lecture: 'Social Media &amp; You!'. Webb Auditorium, RIT <span class="cv-date">APR 2012</span></p>
-                <p>'Sketchbooked' Solo Gallery Show. Pistachio Press <span class="cv-date">MAR 2012</span></p>
-                <p>Interactive Collaborative Piece, <a target="_blank" href="http://www.bornmagazine.org/projects/technology/proj.html">"Technology"</a>. Born Magazine <span class="cv-date">JUN 2005</span></p>
-            </section>
             <section class="cv">
                 <h3>Board & Chair Member Positions / Affiliations</h3>
                 <p>Vignelli Center for Design Studies <span class="cv-date">2011 &ndash; 2013</span></p>
@@ -219,6 +231,8 @@ permalink: /resume/
             </div>
         </div>
     </section>
+
+
     
 </div>
 

@@ -8,6 +8,7 @@ thumbnail: http://migimages.imgix.net/imgix/imgix.pdf?fit=crop&fm=png8&page=1&co
 thumbtitle: imgix Marketing Site
 thumbdesc: Visual Design, Front End Styling
 accentcolor: E95630
+published: false
 ---
 
 <section>

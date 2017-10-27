@@ -10,11 +10,18 @@ a:hover,
 a:active,
 a:visited,
 a:focus {
-  text-decoration: none
+  text-decoration: none;
 }
 
 a, a:visited {
-  color: #05c4ff
+  color: #00a0d1;
+}
+
+p a{
+  display: inline-block;
+  border-bottom: solid 1px currentColor;
+  padding-bottom:0px;
+  line-height: 1.6;
 }
 
 
@@ -195,14 +202,14 @@ header .navbar-nav a:last-child {
     display: block;
     width: 100%;
     border-top: solid 1px #cdcdcd;
-    padding: .5em 0
+    padding: .5em 0;
   }
   header .navbar-nav a:hover {
     color: #b3b3b3;
-    border-bottom: none
+    border-bottom: none;
   }
   header .navbar-nav a:last-child {
-    border-bottom: solid 1px #cdcdcd
+    border-bottom: solid 1px #cdcdcd;
   }
 }
 
@@ -309,7 +316,7 @@ footer nav a:active,
 footer nav a:focus {
   color: #fafafa;
   text-decoration: none;
-  border-bottom: none
+  border-bottom: none;
 }
 
 footer a.email {
@@ -662,7 +669,7 @@ article.post-content{
   font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   font-weight: 800;
   font-size: 250%;
-  line-height: 1.2;
+  line-height: 1;
   margin-bottom: .1em;
   text-transform: uppercase;
   text-align: left;
@@ -672,7 +679,7 @@ article.post-content{
  h2 {
   font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
   font-weight: 700;
-  font-size: 150%;
+  font-size: 180%;
   line-height: 1.2;
   margin-top: 1.5em;
   margin-bottom: .75em;
@@ -700,8 +707,8 @@ h6{
  p {
   font-family: 'Merriweather','Open Sans', Georgia,serif;
   font-size: 125%;
-  line-height: 1.575;
-  margin-bottom: 1.5em;
+  line-height: 1.75;
+  margin-bottom: 2em;
   font-weight: 300;
   color: #6a6a6a;
   max-width: 36em;
@@ -709,19 +716,21 @@ h6{
 }
 
  blockquote {
-  font-family: 'Open Sans','Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-family: 'Merriweather', 'Helvetica Neue', Helvetica, Verdana, sans;
+  font-size: 140%;
   font-style: oblique;
-  font-size: 200%;
-  color: #4a4a4a;
+  letter-spacing: inherit;
+  font-weight: 200;
+  color: #5a5a5a;
   margin: 0 0 1em 0;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
  blockquote .author {
   font-style: normal;
   font-weight: 700;
   padding-top: .5em;
-  display: inline-block
+  display: inline-block;
 }
 
  ul {
@@ -1364,21 +1373,26 @@ article.post-content figure.imgix-thumb {
   box-sizing:border-box;
   -moz-box-sizing:border-box;
   border:solid 0px #eee;
+  /*
   -webkit-transition: border .1s ease-out;
   -moz-transition: border .1s ease-out;
   -ms-transition: border .1s ease-out;
   -o-transition: border .1s ease-out;
+  */
   overflow: hidden;
+
 
 } 
 
 article.post-content figure.imgix-thumb:hover {
   position:relative;
   border:solid 16px #eee;
+  /*
   -webkit-transition: border .15s ease-out;
   -moz-transition: border .15s ease-out;
   -ms-transition: border .15s ease-out;
   -o-transition: border .15s ease-out;
+  */
   @media (max-width: 480px){
     border:solid 8px #eee;
   }
@@ -1409,7 +1423,7 @@ section.thumblist:after{
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(233, 233, 233, 0.9);
+  background: rgba(20,20,20,1);
   z-index: 9999;
   cursor: pointer;
 }
@@ -1482,7 +1496,7 @@ p.lightbox-caption{
    font-style: normal;
    margin-bottom:0;
    text-transform: uppercase;
-   border-top:solid 1px #fafafa;
+   border-top:solid 1px #333;
    @media (max-width: 680px){
    display:none;
   }
@@ -1567,7 +1581,7 @@ p.lightbox-caption{
   right:16px;
   content:'×';
   display: block;
-  color:#444;
+  color:#fff;
   font-size: 32px;
   overflow: hidden;
 }

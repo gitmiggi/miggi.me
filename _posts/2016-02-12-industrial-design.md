@@ -8,6 +8,7 @@ thumbnail: http://migimages.imgix.net/id/idlogo.pdf?bg=fff&fit=crop&fm=png8&colo
 thumbtitle: Industrial Design
 thumbdesc: Misc Projects & Process
 accentcolor: 01A0D1
+published: true
 ---
 
 <section>

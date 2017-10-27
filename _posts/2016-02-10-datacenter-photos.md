@@ -10,8 +10,11 @@ thumbdesc: Photography, Marketing
 accentcolor: 92a5ba
 ---
 
+<!-- <div class='js-maker-embed' data-maker-embed-id='24476' data-maker-type='socialstory' data-story-title='Migs Stuff' data-maker-initial-height='2000px' data-maker-font-family='sans-serif' data-no-attribution='true' data-no-title='true' data-no-cover='false' data-no-share='true' data-no-tags='true' data-story-nav='false' style='height: auto; width: 100%;'></div><script async src='https://makerassets1.maker.me/assets/embeds/embed_base.js'></script> -->
+
 <section>
 <p>The following photosets were a collaboration between our Director of Production Operations and myself. The level of design, engineering and customization that went into building the imgix datacenters needed to be documented properly, we needed a way to distinguish ourselves from the competetion. Both photosets are located at <a href="http://photos.imgix.com/" target="_blank">photos.imgix.com</a></p>
+
 
 <h2>Newest imgix Datacenter</h2>
 <p>This was the first photoset I shot in our datacenter. I wanted to tell the story of our ability to rapidly deploy and scale our service, and the ways we uniquely and beautifully use a variety of hardware to run the imgix service.</p>

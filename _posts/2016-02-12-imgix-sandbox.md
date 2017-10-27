@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "imgix Sandbox,<br>Image Inspector"
-date:   2016-02-29 10:00:00
+date:   2016-01-30 10:00:00
 tags: design
 headline: http://migimages.imgix.net/sandbox/sandbox-devices.png?fm=jpg&chromasub=444&bg=fafafa
-thumbnail: http://migimages.imgix.net/sandbox/sandboxlogo.ai?page=2&fm=png8&bg=F0DBBB&fit=clamp&colorquant=48&pad=8
+thumbnail: http://migimages.imgix.net/imgix/imgix.pdf?fit=crop&fm=png8&page=1&colorquant=50
 thumbtitle: Imgix Sandbox
 thumbdesc: UX/UI Design, Front End Styling
 accentcolor: efd2aa
+published: true
 ---
 
 <section>

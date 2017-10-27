@@ -9,6 +9,7 @@ thumbnail: http://migimages.imgix.net/imgixwebapp/imgix-webapp-icons.pdf?fit=cro
 thumbtitle: imgix Customer Dashboard
 thumbdesc: UX/UI Design, Style Guide
 accentcolor: 032A3B
+published: false
 ---
 
 <section>
