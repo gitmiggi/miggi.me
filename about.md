@@ -7,11 +7,10 @@ permalink: /about/
 <article class="post-content">
 <figure>
 <picture>
-          <source media="(min-width: 1280px)" srcset="http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=1024&q=65 1x, http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=1024&q=65&dpr=2&q=45 2x">
-          <source media="(min-width: 768px)" srcset="http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=1000&q=65 1x, http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=1000&q=65&dpr=2&q=45 2x">
-          <source media="(min-width: 480px)" srcset="http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=800 &q=651x, http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=800&&q=65dpr=2&q=45 2x">
-          <source media="(max-width: 479px)" srcset="http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=580&w=480&&q=65q=80 1x, http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=580&w=480&&q=65dpr=2&q=45 2x">
-          <img src="http://migmedia.imgix.net/miguelcardona.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=faces&fm=pjpg&q=60&usm=15&h=500&w=640&&q=65q=80" {% if include.caption %} alt="Self Portriat" {% endif %}>
+          <source media="(min-width: 768px)" srcset="http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=500&w=800&q=65 1x, http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=500&w=800&q=65&dpr=2&q=45 2x">
+          <source media="(min-width: 480px)" srcset="http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=500&w=800 &q=651x, http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=500&w=800&&q=65dpr=2&q=45 2x">
+          <source media="(max-width: 479px)" srcset="http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=580&w=480&&q=65q=80 1x, http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=580&w=480&&q=65dpr=2&q=45 2x">
+          <img src="http://migimages.imgix.net/pics/miguelcardona-2.jpg?chromasub=444&dpr=2&sat=-100&fit=crop&crop=focalpoint&fp-z=1.2&bri=4&fm=pjpg&q=60&usm=15&h=500&w=640&&q=65q=80" {% if include.caption %} alt="Self Portriat" {% endif %}>
       </picture>
 </figure>
 <section>

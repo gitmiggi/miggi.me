@@ -12,7 +12,7 @@ accentcolor: b33630
 
 <section>
 
-<p>I started drawing on coffee cups in the Summer of 2012, and havent really stopped since. The hobby has afforded me many unique oppurtunities, gallery showings, and press. What started as a small habit while drinking coffee, has become my most recognized art form.</p>
+<p>I started drawing on coffee cups in the Summer of 2012, and havent really stopped since. The hobby has afforded me many unique opportunities, gallery showings, and press. What started as a small habit while drinking coffee, has become my most recognized art form.</p>
 </section>
 
 {% include picture.html img="http://migimages.imgix.net/cups/sketchcups00005.png?fm=pjpg&chromasub=444&crop=faces,entropy" %}
